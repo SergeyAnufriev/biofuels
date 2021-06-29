@@ -1,0 +1,280 @@
+RON_Molecules,Experiment,SMILES
+n-Butylbenzene,104.4,CCCCc1ccccc1
+"1,2,3,4-Tetramethylbenzene",105.3,Cc1c(C)ccc(c1C)C
+1-Phenylpentane,89.2,CCCCCc1ccccc1
+1-Methyl-2-allylbenzene,98.6,C=CCc1ccccc1C
+"1,2,3,4-Tetrahydronaphthalene",96.4,C1CCc2c(C1)cccc2
+sec-Butylcyclohexane,51,CCC(C1CCCCC1)C
+1-Methyl-2-n-propylcyclohexane (cis),30.4,CCC[C@H]1CCCC[C@H]1C
+Cyclo-octane,72.1,C1CCCCCCC1
+"1,1-Dimethylcyclopentane",92.3,CC1(C)CCCC1
+iso-Propylcyclopentane,81.1,CC(C1CCCC1)C
+iso-Butylcyclopentane,33.4,CC(CC1CCCC1)C
+n-Propylcyclohexane,17.8,CCCC1CCCCC1
+Cyclohexene,83.9,C1CCC=CC1
+"4,4-Dimethylcyclohexene",96.2,CC1(C)CCC=CC1
+1-Octyne,50.5,CCCCCCC#C
+4-Octyne,59.6,CCCC#CCCC
+1-Octene,28.7,CCCCCCC=C
+"2,2-Dimethyl-3-hexene (trans)",105.3,CC/C=C/C(C)(C)C
+"2,5-Dimethyl-3-hexene (cis)",103.5,CC(/C=C\C(C)C)C
+2-Methyl-3-ethyl-1-pentene,99.5,CCC(C(=C)C)CC
+"4,4-Diethyl-1-heptene",79.8,CCCC(CC=C)(CC)CC
+"2-Methyl-1,3-butadiene",99.1,C=CC(=C)C
+2-Methyl-1-butene,102.5,CCC(=C)C
+3-Hexene (trans),94,CC/C=C/CC
+2-Methyl-2-pentene,97.8,CCC=C(C)C
+2-Heptene (trans),73.4,CCCC/C=C/C
+4-Methyl-2-hexene (cis),98.6,C/C=C\C(CC)C
+5-Methyl-2-hexene (trans),94.3,C/C=C/CC(C)C
+"2,3-Dimethyl-1-pentene",99.3,CCC(C(=C)C)C
+ETHANE,111.7,CC
+PROPANE,111.4,CCC
+n-Butane,94,CCCC
+n-Hexane,24.8,CCCCCC
+"2,3-Dimethylpentane",91.1,CCC(C(C)C)C
+4-Methylheptane,26.7,CCCC(CCC)C
+"2,3,4-Trimethylpentane",102.5,CC(C(C)C)C(C)C
+"2,2-Dimethylheptane",50.3,CCCCCC(C)(C)C
+"3,3,5-Trimethylheptane",86.4,CCC(CC(CC)(C)C)C
+N-PROPANOL,104,CCCO
+Heptane,0,CCCCCCC
+Ethylbenzene,107.4,CCc1ccccc1
+"1,4-Dimethylbenzene",116.4,Cc1ccc(cc1)C
+"1,3-Dimethyl-5-ethylbenzene",114.8,CCc1cc(C)cc(c1)C
+tert-Amylbenzene,108,CCC(c1ccccc1)(C)C
+Allylbenzene,102.5,C=CCc1ccccc1
+Indan (hydrindene),103.5,C1Cc2c(C1)cccc2
+1-Methyl-2-n-propylcyclohexane (trans),29.4,CCC[C@@H]1CCCC[C@H]1C
+1-Methyl-4-isopropylcyclohexane (cis),63.4,CC([C@@H]1CC[C@@H](CC1)C)C
+"1,2,4-Trimethyl-4-isopropylcyclo-hexane",96,CC1CCC(CC1C)(C)C(C)C
+Dicyclopropylmethane,95.1,C1CC1CC1CC1
+cis-hydrindane ,70,[C@@H]12CCCC[C@H]2CCC1
+trans-hydrindane ,58.5,[C@@H]12CCCC[C@@H]2CCC1
+"1,1,3-Trimethylcyclohexane",81.3,CC1CCCC(C1)(C)C
+Cyclopentene,93.3,C1CC=CC1
+1-Methylcyclohexene,89.1,CC1=CCCCC1
+"3,5,5-Trimethylcyclohexene",95.5,CC1C=CCC(C1)(C)C
+"2,4-Dimethyl-2-pentene",100,CC(C=C(C)C)C
+"4,4-Dimethyl-2-pentene (cis)",105.3,C/C=C\C(C)(C)C
+2-Methyl-2-heptene,75.9,CCCCC=C(C)C
+"2,3-Dimethyl-2-hexene",93.1,CCCC(=C(C)C)C
+"2,3,4-Trimethyl-2-pentene",96.9,CC(C(=C(C)C)C)C
+"1,5-Hexadiene",71.1,C=CCCC=C
+2-Methyl-3-hexene (trans),97.9,CC/C=C/C(C)C
+n-Pentane,61.7,CCCCC
+"2,3-Dimethylbutane",103.5,CC(C(C)C)C
+"2,2-Dimethylpentane",92.8,CCCC(C)(C)C
+"2,2,3-Trimethylbutane",112.1,CC(C(C)(C)C)C
+2-Methylheptane,21.7,CCCCCC(C)C
+"2,2-Dimethylhexane",72.5,CCCCC(C)(C)C
+"2,5-Dimethylhexane",55.2,CC(CCC(C)C)C
+"3,4-Dimethylhexane",76.3,CCC(C(CC)C)C
+"2,2,4-Trimethylpentane",100,CC(CC(C)(C)C)C
+"2,3,3-Trimethylpentane",106,CCC(C(C)C)(C)C
+"2,2,3,3-Tetramethylpentane",116.8,CCC(C(C)(C)C)(C)C
+METHANOL,122,CO
+ETHANOL,109,CCO
+SEC-BUTANOL,105,CCC(O)C
+"2,5-Dimethylfuran",119,Cc1ccc(o1)C
+"2,3-Dimethylhexane",71.3,CCCC(C(C)C)C
+1-Methyl-2-ethylbenzene,102.5,CCc1ccccc1C
+"1,3,5-Trimethylbenzene",120.3,Cc1cc(C)cc(c1)C
+"1,3-Dimethyl-4-ethylbenzene",106,CCc1ccc(cc1C)C
+1-Methyl-2-isopropylbenzene,106,CC(c1ccccc1C)C
+Propenylbenzene (trans),104.4,C/C=C/c1ccccc1
+2-Phenylpropene,113.1,CC(=C)c1ccccc1
+1-Phenyl-2-methylpropene,105.3,CC(=Cc1ccccc1)C
+"1,3,5-Trimethylcyclohexane (cis)",59.1,CC1C[C@H](C)C[C@@H](C1)C
+Cycloheptane,38.1,C1CCCCCC1
+Cyclopentylcyclopentane,9.7,C1CCC(C1)C1CCCC1
+2-Ethylbicyclo(2.2.1)heptane,51.9,CCC1CC2CC1CC2
+"1,2-Dimethylcyclopropane (cis)",104.4,[C@@H]1(C)C[C@@H]1C
+"1,3-Dimethylcyclopentane (cis)",79.2,[C@@H]1(C)CC[C@@H](C1)C
+"1,1,2,4-Tetramethylcyclopentan",96.2,CC1CC(C(C1)(C)C)C
+Allylcyclopentane,52.1,C=CCC1CCCC1
+"1,1,2-Trimethylcyclohexane",95.7,CC1CCCCC1(C)C
+1-Ethylcyclohexene,85.9,CCC1=CCCCC1
+4-Vinylcyclohexene,77,C=CC1CCC=CC1
+"1,2,4-Trimethyl-4-isopropenylcyclohexene",92.8,CC1=C(C)CC(CC1)(C)C(=C)C
+"3,4-Dimethyl-2-pentene (cis)",96,C/C=C(\C(C)C)/C
+6-Methyl-2-heptene,71.3,C/C=C/CCC(C)C
+2-Methyl-3-heptene (trans),94.4,CCC/C=C/C(C)C
+2-Methyl-3-ethyl-2-pentene,95.6,CCC(=C(C)C)CC
+ETHENE,97.3,C=C
+1-Hexene,76.4,CCCCC=C
+2-Hexene (trans),92.7,CCC/C=C/C
+3-Methyl-1-pentene,96,CC(C=C)CC
+3-Methyl-2-pentene (trans),97.2,CC/C(=C/C)/C
+4-Methyl-2-pentene,99.3,CC=CC(C)C
+4-Methyl-2-pentene (trans),98,C/C=C/C(C)C
+"2,3-Dimethyl-2-butene",97.4,CC(=C(C)C)C
+1-Heptene,54.5,CCCCCC=C
+3-Methyl-1-hexene,82.2,CC(C=C)CCC
+"2,4-Dimethylhexane",65.2,CCC(CC(C)C)C
+3-Methyl-3-ethylpentane,80.8,CCC(CC)(CC)C
+"2,2,3-Trimethylpentane",109.6,CCC(C(C)(C)C)C
+Dipentene,90.6,CC1=CC[C@H]2C[C@@H]1C2(C)C
+TERT-BUTANOL,105,CC(O)(C)C
+Butyl Levulinate,98,CCCCOC(=O)CCC(=O)C
+Toluene,120.1,Cc1ccccc1
+"1,3-Dimethylbenzene",117.5,Cc1cccc(c1)C
+"1,2,3-Trimethylbenzene",105.3,Cc1c(C)cccc1C
+"1,2,4-Trimethylbenzene",110.5,Cc1ccc(c(c1)C)C
+iso-Butylbenzene,111.4,CC(Cc1ccccc1)C
+"1,3-Diethylbenzene",115.5,CCc1cccc(c1)CC
+1-Methyl-2-n-propylbenzene,103.5,CCCc1ccccc1C
+1-Methyl-3-n-propylbenzene,112.1,CCCc1cccc(c1)C
+1-Methyl-4-isopropylbenzene,110.5,Cc1ccc(cc1)C(C)C
+2-Phenylpentane,103.5,CCCC(c1ccccc1)C
+Ethenylbenzene,115.5,C=Cc1ccccc1
+Propenylbenzene (cis),105.3,C/C=C\c1ccccc1
+"1,3,5-Trimethylcyclohexane (trans)",68.5,CC1C[C@@H](C)C[C@@H](C1)C
+Ethylidenecyclohexane,83,CC=C1CCCCC1
+Ethylcyclopropane,102.5,CCC1CC1
+"1,2-Dimethylcyclopropane (trans)",104.4,[C@@H]1(C)C[C@H]1C
+"1,1,2-Trimethylcyclopropane",111,CC1CC1(C)C
+Ethylcyclobutane,41.1,CCC1CCC1
+Methylcyclopentane,91.3,CC1CCCC1
+Ethylcyclopentane,67.2,CCC1CCCC1
+Ethylidenecyclopentane,82.4,CC=C1CCCC1
+"1,3-Dimethylcyclohexane (cis)",71.7,[C@@H]1(C)CCC[C@@H](C1)C
+3-Ethylcyclopentene,90.8,CCC1CCC=C1
+"1,2-Dimethylcyclohexene",89.7,CC1=C(C)CCCC1
+"1,3-Cyclohexadiene",74.8,C1CC=CC=C1
+beta-Pinene,80.6,C=C1CCC2CC1C2(C)C
+"2,3-Dimethyl-2-pentene",97.5,CCC(=C(C)C)C
+"4,4-Dimethyl-2-pentene (trans)",105.3,C/C=C/C(C)(C)C
+2-Methyl-1-heptene,70.2,CCCCCC(=C)C
+6-Methyl-3-heptene (trans),93.4,CC/C=C/CC(C)C
+"2,2-Dimethyl-3-hexene (cis)",106.8,CC/C=C\C(C)(C)C
+"3-Methyl-1,2-butadiene",61,C=C=C(C)C
+2-Ethyl-1-butene,98.3,CCC(=C)CC
+"3,3-Dimethyl-1-butene",111.7,C=CC(C)(C)C
+3-Heptene (cis),90.2,CCC/C=C\CC
+2-Methyl-2-hexene,92.8,CCCC=C(C)C
+3-Methyl-2-hexene (cis),92.2,CCC/C(=C\C)/C
+2-Methylhexane,42.4,CCCCC(C)C
+"3,3-Dimethylpentane",80.8,CCC(CC)(C)C
+iso-Propylbenzene,113.1,CC(c1ccccc1)C
+1-Methyl-3-ethylbenzene,112.1,CCc1cccc(c1)C
+"1,4-Diethylbenzene",106,CCc1ccc(cc1)CC
+Ethylcycloheptane,29,CCC1CCCCCC1
+Pinane,77.7,CC1CCC2CC1C2(C)C
+Methylcyclopropane,102.5,CC1CC1
+"1,1,2,2-Tetramethylcyclopropane",105.3,CC1(C)CC1(C)C
+Isopropenylcyclopropane,94.5,CC(=C)C1CC1
+Cyclopentane,101.3,C1CCCC1
+Cyclohexane,83,C1CCCCC1
+Ethylcyclohexane,45.6,CCC1CCCCC1
+"1,1-Dimethylcyclohexane",87.3,CC1(C)CCCCC1
+"1,2-Dimethylcyclohexane (trans)",80.9,[C@@H]1(C)CCCC[C@H]1C
+"1,4-Dimethylcyclohexane (trans)",68.3,[C@@H]1(C)CC[C@H](CC1)C
+iso-Propylcyclohexane,62.8,CC(C1CCCCC1)C
+1-Methyl-1-ethylcyclohexane,68.7,CCC1(C)CCCCC1
+1-Methylcyclopentene,93.6,CC1=CCCC1
+4-Methylcyclohexene,84.1,CC1CCC=CC1
+"1,3-Cyclopentadiene",103.5,C1C=CC=C1
+"1,4-Cyclohexadiene",75.4,C1=CCC=CC1
+"1-Methyl-1,4-cyclohexadiene",75,CC1=CCC=CC1
+4-Methyl-1-pentyne,91.3,CC(CC#C)C
+4-Octene (trans),73.3,CCC/C=C/CCC
+"2,4,4-Trimethyl-1-pentene",106,CC(=C)CC(C)(C)C
+"2,5-Dimethyl-1,5-hexadiene",90.2,CC(=C)CCC(=C)C
+PROPENE,101.3,CC=C
+4-Methyl-1-pentene,95.7,C=CCC(C)C
+4-Methyl-2-pentene (cis),99.7,C/C=C\C(C)C
+2-Methylbutane,92.3,CCC(C)C
+3-Methylpentane,74.5,CCC(CC)C
+3-Methylheptane,26.8,CCCCC(CC)C
+3-Ethylhexane,33.5,CCCC(CC)CC
+2-Methyl-3-ethylpentane,87.3,CCC(C(C)C)CC
+"2,4-Dimethyl-3-ethylpentane",105.3,CCC(C(C)C)C(C)C
+2-Methyldecane,0,CCCCCCCCC(C)C
+ISOPROPANOL,106,CC(O)C
+2-METHYL-2-BUTANOL,97,CCC(O)(C)C
+2-Methyltetrahydrofuran,86,CC1CCCO1
+Methyl Pentanoate,105,CCCCC(=O)OC
+"2,5-dimethylfuran",119,Cc1ccc(o1)C
+"1,1,3-Trimethylcyclopentane",87.7,CC1CCC(C1)(C)C
+"1,3-Dimethylcyclohexane (trans)",66.9,[C@@H]1(C)CCC[C@H](C1)C
+3-Octene (trans),72.5,CCCC/C=C/CC
+iso-Butylcyclohexane,33.7,CC(CC1CCCCC1)C
+N-BUTANOL,98,CCCCO
+"2,5-Dimethyl-2,4-hexadiene",94.3,CC(=CC=C(C)C)C
+n-Propylcyclopentane,31.2,CCCC1CCCC1
+2-Butyne,85.9,CC#CC
+n-Butylcyclopentane,-3,CCCCC1CCCC1
+"cis,cis,trans-1,2,3-trimethylcyclohexane",86.2,CC1[C@H](C)CCC[C@H]1C
+tert-Butylbenzene,115.5,CC(c1ccccc1)(C)C
+3-Ethylpentane,65,CCC(CC)CC
+?-Valerolactone,100,CC1CCC(=O)O1
+1-Ethylcyclopentene,90.3,CCC1=CCCC1
+sec-Butylbenzene,106.8,CCC(c1ccccc1)C
+iso-Butane,100.3,CC(C)C
+3-Heptene (trans),89.8,CCC/C=C/CC
+1-Butene,97.4,CCC=C
+3-Ethyl-2-pentene,93.7,CCC(=CC)CC
+3-Ethyl-1-pentene,95.6,CCC(C=C)CC
+ISOBUTANOL,105,OCC(C)C
+2-Butene (cis),100,C/C=C\C
+6-Methyl-1-heptene,63.6,C=CCCCC(C)C
+"2,3,3-Trimethyl-1-butene",105.3,CC(=C)C(C)(C)C
+"1,4-Dimethyl-2-ethylbenzene",106,CCc1cc(C)ccc1C
+"3,4-Dimethyl-1-pentene",98.9,C=CC(C(C)C)C
+5-Methyl-1-hexene,75.5,C=CCCC(C)C
+"2,4,4-Trimethyl-2-pentene",103.5,CC(=CC(C)(C)C)C
+Methylcyclohexane,74.8,CC1CCCCC1
+"4,4-Dimethyl-1-pentene",104.4,C=CCC(C)(C)C
+Vinylcyclopentane,69.3,C=CC1CCCC1
+"2,2-Dimethylbutane ",91.8,CCC(C)(C)C
+"1,3-Dimethylcyclopentane (trans)",80.6,[C@@H]1(C)CC[C@H](C1)C
+2-Octene,56.3,CCCCCC=CC
+Indene,113.7,c1ccc2c(c1)C=CC2
+"3,3-Diethylpentane",84,CCC(CC)(CC)CC
+"1,2-Dimethyl-3-ethylbenzene",104.4,CCc1cccc(c1C)C
+2-Methyl-1-pentene,94.2,CCCC(=C)C
+"2,4-Dimethyl-1-pentene",99.2,CC(CC(=C)C)C
+"2,5-Dimethyl-2-hexene",95.2,CC(CC=C(C)C)C
+"2,3-Dimethyl-1-hexene",96.3,CCCC(C(=C)C)C
+"2,4-Dimethylpentane",83.1,CC(CC(C)C)C
+2-Methyl-2-butene,97.3,CC=C(C)C
+"2,3-Dimethyl-1,3-butadiene",99.2,CC(=C)C(=C)C
+3-Methyl-3-hexene (cis),96,CC/C=C(\CC)/C
+"3,3-Dimethyl-1-pentene",103.5,CCC(C=C)(C)C
+n-Propylbenzene,111,CCCc1ccccc1
+1-Methyl-3-ethylcyclopentane,57.6,CCC1CCC(C1)C
+3-Methyl-3-hexene (trans),96.4,CC/C=C(/CC)\C
+1-PENTANOL,78,CCCCCO
+4-Methyl-1-hexene,86.4,CC(CC)CC=C
+"1,4-Dimethylcyclohexane (cis)",67.2,[C@@H]1(C)CC[C@@H](CC1)C
+Ethyl Levulinate,110,CCOC(=O)CCC(=O)C
+2-Methylfuran,103,Cc1ccco1
+4-Methyl-2-hexene (trans),96.8,C/C=C/C(CC)C
+alpha-Pinene,83.1,CC1=CCC2CC1C2(C)C
+"2,2,3,3-Tetramethylhexane",112.8,CCCC(C(C)(C)C)(C)C
+2-Methylpentane,73.4,CCCC(C)C
+Vinylcyclohexane,64.3,C=CC1CCCCC1
+"2,4-Hexadiene",97.1,C/C=C/C=C/C
+"3,4,4-Trimethyl-2-pentene",102.5,CC=C(C(C)(C)C)C
+1-Pentene,90.9,CCCC=C
+"cis,cis,trans-1,2,4-Trimethylcyclopentane",89.2,[C@@H]1(C)C[C@H]([C@H](C1)C)C
+2-Methyl-1-hexene,90.7,CCCCC(=C)C
+3-Methyl-2-ethyl-1-butene,97,CCC(=C)C(C)C
+3-Methyl-2-hexene (trans),91.4,CCC/C(=C/C)/C
+"2,3-Dimethyl-1-butene",101.3,CC(=C)C(C)C
+Isopropylcyclopropane,100.3,CC(C1CC1)C
+"2,2-Dimethyl-3-ethylpentane",112.1,CCC(C(C)(C)C)CC
+"1,2-Dimethylcyclohexane (cis)",80.9,[C@@H]1(C)CCCC[C@@H]1C
+"2,3,3-Trimethyl-1-pentene",105.3,CCC(C(=C)C)(C)C
+"3,3-Dimethylhexane",75.5,CCCC(CC)(C)C
+"3,3,5-Trimethylcyclohexene",96.5,CC1CC=CC(C1)(C)C
+3-Methylhexane,52,CCCC(CC)C
+"2,5-Dimethyl-3-hexene (trans)",99.8,CC(/C=C/C(C)C)C
+"cis,trans,trans-1,2,4-trimethylcyclohexane",72.8,[C@@H]1(C)CC[C@H]([C@@H](C1)C)C
+"1,2,3-Trimethylcyclohexane (cis,trans,cis)",83.4,[C@@H]1(C)[C@@H](C)CCC[C@H]1C
+"2,2-Dimethylpropane",85.5,CC(C)(C)C
+tert-Butylcyclohexane,98.5,CC(C1CCCCC1)(C)C
+tert-Amylcyclohexane,90.4,CCC(C1CCCCC1)(C)C
+Dicyclopentadiene,107.4,C1=CC2C(C1)C1C=CC2C1
+2-Methyldecane,0,CCCCCCCCC(C)C 
