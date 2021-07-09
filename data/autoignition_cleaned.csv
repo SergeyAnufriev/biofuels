@@ -1,275 +1,275 @@
-,Hydrocarbon name,Exp,New,Dev,Albahri,Dev.1,AlbahriGeorge,Dev.2,Chen et al.,Dev.3,SMILES,Temp,Ref,Split
-0,Methane,868 [23],859.0,?9,780,?88,730,?138,750,?118,C,868.0,23.0,Train
-1,Propane,723 [22],726.0,3,680,?43,640,?83,673,?50,CCC,723.0,22.0,Train
-2,Butane,645 [4],660.0,15,632,?13,611,?34,643,?2,CCCC,645.0,4.0,Train
-3,2-Methylpropane,"733 [22, 23]",734.0,1,701,?32,648,?85,680,?53,CC(C)C,733.0,22.0,Train
-4,Pentane,538 [4],506.0,?32,586,48,581,43,614,76,CCCCC,538.0,4.0,Train
-5,"2,2-Dimethylpropane","723 [22, 23]",726.0,3,749,26,709,?14,707,?16,CC(C)(C)C,723.0,22.0,Train
-6,2-Methylbutane,"693 [22, 23]",726.0,33,652,?41,619,?74,650,?43,CCC(C)C,693.0,22.0,Train
-7,Hexane,497 [23],498.0,1,547,50,552,54,587,90,CCCCCC,497.0,23.0,Train
-8,"2,2-Dimethylbutane",678 [23],718.0,40,702,24,684,5,677,?1,CCC(C)(C)C,678.0,23.0,Train
-9,2-Methylpentane,"579 [22, 23]",556.0,?23,605,26,589,10,621,42,CCCC(C)C,579.0,22.0,Train
-10,3-Methylpentane,573 [22],556.0,?17,605,32,589,16,621,48,CCC(C)CC,573.0,22.0,Train
-11,Heptane,486 [4],489.0,3,515,29,522,36,561,75,CCCCCCC,486.0,4.0,Train
-12,"3,3-Dimethylpentane",610 [23],612.0,2,653,43,656,46,647,37,CCC(C)(C)CC,610.0,23.0,Train
-13,"2,4-Dimethylpentane","610 [22, 23]",612.0,2,624,14,597,?13,628,18,CC(C)CC(C)C,610.0,22.0,Train
-14,"2,3-Dimethylpentane","610 [22, 23]",612.0,2,624,14,597,?13,628,18,CCC(C)C(C)C,610.0,22.0,Train
-15,2-Methylhexane,553 [23],548.0,?5,563,9,560,6,593,40,CCCCC(C)C,553.0,23.0,Train
-16,3-Methylhexane,"553 [22, 23]",548.0,?5,563,9,560,6,593,40,CCCC(C)CC,553.0,22.0,Train
-17,"2,2,3-Trimethylbutane",723 [23],710.0,?13,722,?1,691,?32,685,?39,CC(C)C(C)(C)C,723.0,23.0,Train
-18,Octane,483 [23],481.0,?2,492,9,495,12,539,56,CCCCCCCC,483.0,23.0,Train
-19,"2,3,4-Trimethylpentane",700 [23],701.0,1,644,?56,606,?95,635,?65,CC(C)C(C)C(C)C,700.0,23.0,Train
-20,"3,4-Dimethylhexane",588 [23],604.0,16,580,?8,568,?20,600,12,CCC(C)C(C)CC,588.0,23.0,Train
-21,"2,2,4-Trimethylpentane",683 [23],701.0,18,673,?10,664,?19,655,?29,CC(C)CC(C)(C)C,683.0,23.0,Train
-22,"3,3-Dimethylhexane",610 [23],604.0,?6,606,?4,627,17,618,8,CCCC(C)(C)CC,610.0,23.0,Train
-23,"2,3-Dimethylhexane",588 [23],604.0,16,580,?8,568,?20,600,12,CCCC(C)C(C)C,588.0,23.0,Train
-24,"2,4-Dimethylhexane",588 [23],604.0,16,580,?8,568,?20,600,12,CCC(C)CC(C)C,588.0,23.0,Train
-25,"2,5-Dimethylhexane",588 [23],604.0,16,580,?8,568,?20,600,12,CC(C)CCC(C)C,588.0,23.0,Train
-26,"2,3,3-Trimethylpentane",703 [23],701.0,?2,673,?30,664,?39,655,?49,CCC(C)(C)C(C)C,703.0,23.0,Train
-27,2-Methylheptane,520 [23],503.0,?17,527,7,530,10,567,47,CCCCCC(C)C,520.0,23.0,Train
-28,3-Methylheptane,518 [22],499.0,?19,527,9,530,12,567,49,CCCCC(C)CC,518.0,22.0,Train
-29,"2,2-Dimethylhexane",610 [22],604.0,?6,606,?4,627,17,618,8,CCCCC(C)(C)C,610.0,22.0,Train
-30,Nonane,485 [23],473.0,?5,478,0,469,?9,520,42,CCCCCCCCC,485.0,23.0,Train
-31,4-Methyloctane,493 [23],495.0,2,500,7,502,9,544,51,CCCCC(C)CCC,493.0,23.0,Train
-32,2-Methyloctane,493 [23],495.0,2,500,7,502,9,544,51,CCCCCCC(C)C,493.0,23.0,Train
-33,3-Methyloctane,493 [23],495.0,2,500,7,502,9,544,51,CCCCCC(C)CC,493.0,23.0,Train
-34,"2,2,3,4-Tetramethylpentane",703 [23],693.0,?10,694,?9,671,?32,662,?41,CC(C)C(C)C(C)(C)C,703.0,23.0,Train
-35,"2,2,4,4-Tetramethylpentane",703 [23],693.0,?10,723,20,722,19,681,?22,CC(C)(C)CC(C)(C)C,703.0,23.0,Train
-36,"2,2,3,3-Tetramethylpentane",703 [22],693.0,?10,723,20,722,19,681,?22,CCC(C)(C)C(C)(C)C,703.0,22.0,Train
-37,"2,3,3,4-Tetramethylpentane",703 [22],693.0,?10,694,?9,671,?32,662,?41,CC(C)C(C)(C)C(C)C,703.0,22.0,Train
-38,Tetraethylmethane,563 [23],531.0,?32,563,0,598,35,590,27,CCC(CC)(CC)CC,563.0,23.0,Train
-39,"2,4-Dimethyl-3-ethylpentane",663 [23],693.0,30,598,?66,576,?87,607,?56,CCC(C(C)C)C(C)C,663.0,23.0,Train
-40,"2,2,5-Trimethylhexane",623 [22],596.0,?27,625,2,635,12,625,2,CC(C)CCC(C)(C)C,623.0,22.0,Train
-41,"2,2-Dimethylheptane",588 [22],596.0,8,563,?25,598,10,590,2,CCCCCC(C)(C)C,588.0,22.0,Train
-42,Decane,478 [23],465.0,?13,473,?5,446,?32,505,27,CCCCCCCCCC,478.0,23.0,Train
-43,3-Methylnonane,487 [23],486.0,?1,483,?4,476,?11,524,37,CCCCCCC(C)CC,487.0,23.0,Train
-44,2-Methylnonane,487 [22],486.0,?1,483,?4,476,?11,524,37,CCCCCCCC(C)C,487.0,22.0,Train
-45,4-Methylnonane,485 [22],486.0,1,483,?2,476,?9,524,39,CCCCCC(C)CCC,485.0,22.0,Train
-46,5-Methylnonane,485 [22],486.0,1,483,?2,476,?9,524,39,CCCCC(C)CCCC,485.0,22.0,Train
-47,"3,3,5-Trimethylheptane",655 [22],685.0,30,580,?75,606,?49,597,?58,CCC(C)CC(C)(C)CC,655.0,22.0,Train
-48,"2,2,3,3-Tetramethylhexane",714 [22],685.0,?29,674,?40,698,?16,651,?63,CCCC(C)(C)C(C)(C)C,714.0,22.0,Train
-49,"2,2,5,5-Tetramethylhexane",752 [22],685.0,?67,674,?78,698,?54,651,?101,CC(C)(C)CCC(C)(C)C,752.0,22.0,Train
-50,"2,2-Dimethyloctane",571 [22],588.0,17,528,?43,568,?3,565,?6,CCCCCCC(C)(C)C,571.0,22.0,Train
-51,Undecane,513 [23],515.0,2,476,?37,427,?86,495,?18,CCCCCCCCCCC,513.0,23.0,Train
-52,3-Methylundecane,480 [22],470.0,?10,474,?6,432,?48,497,17,CCCCCCCCC(C)CC,480.0,22.0,Train
-53,Dodecane,473 [23],506.0,33,484,11,413,?60,490,17,CCCCCCCCCCCC,473.0,23.0,Train
-54,Tridecane,475 [23],498.0,23,496,21,404,?71,491,16,CCCCCCCCCCCCC,475.0,23.0,Train
-55,Tetradecane,493 [23],490.0,?3,507,14,402,?91,499,6,CCCCCCCCCCCCCC,493.0,23.0,Train
-56,Pentadecane,475 [23],482.0,7,514,39,407,?68,514,39,CCCCCCCCCCCCCCC,475.0,23.0,Train
-57,Heptadecane,475 [23],465.0,?10,492,17,445,?30,569,94,CCCCCCCCCCCCCCCCC,475.0,23.0,Train
-58,Octadecane,508 [23],475.0,?33,452,?56,480,?29,609,101,CCCCCCCCCCCCCCCCCC,508.0,23.0,Train
-59,Nonadecae,478 [23],475.0,?3,383,?95,526,48,660,182,Did not work,478.0,23.0,Train
-60,Eicosane,"475 [22, 23]",475.0,0,276,?199,587,112,721,246,CCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-61,Henicosane,"475 [22, 23]",475.0,0,124,?351,662,187,794,319,CCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-62,Tricosane,475 [22],475.0,0,?358,,863,388,974,499,CCCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-63,n-Tetracosane,475 [22],475.0,0,?709,,992,517,"1,084",609,CCCCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-64,Pentacosane,475 [22],475.0,0,"?1,149",,"1,141",666,"1,207",732,CCCCCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-65,Hexacosane,475 [22],475.0,0,"?1,690",,"1,312",837,"1,344",869,CCCCCCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-66,Heptacosane,475 [22],475.0,0,"?2,346",,"1,508","1,033","1,497","1,022",CCCCCCCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-67,n-Octacosane,475 [22],475.0,0,"?3,131",,"1,729","1,254","1,665","1,190",CCCCCCCCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-68,Nonacosane,475 [22],475.0,0,"?4,061",,"1,977","1,502","1,849","1,374",CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Train
-69,Cyclopropane,771 [23],768.0,?3,668,"?1,03",640,?131,662,?110,C1CC1,771.0,23.0,Train
-70,Cyclobutane,"700 [22, 23]",701.0,1,629,?71,606,?94,632,?68,C1CCC1,700.0,22.0,Train
-71,Cyclopentane,653 [23],635.0,?18,591,?62,572,?81,604,?49,C1CCCC1,653.0,23.0,Train
-72,Cyclohexane,518 [23],481.0,?37,558,40,538,20,577,59,C1CCCCC1,518.0,23.0,Train
-73,Methylcyclopentane,588 [23],557.0,?31,602,14,555,?33,603,14,CC1CCCC1,588.0,23.0,Train
-74,Cycloheptane,428 [22],473.0,45,529,101,505,77,553,125,C1CCCCCC1,428.0,22.0,Train
-75,Methylcyclohexane,533 [23],549.0,16,568,34,522,?11,576,43,CC1CCCCC1,533.0,23.0,Train
-76,Ethylcyclopentane,"533 [22, 23]",549.0,16,560,27,526,?7,576,43,CCC1CCCC1,533.0,22.0,Train
-77,Cyclooctane,430 [22],465.0,35,506,76,475,45,532,102,C1CCCCCCC1,430.0,22.0,Train
-78,n-Propylcyclopentane,"542 [22, 23]",540.0,?2,525,?17,498,?44,552,10,CCCC1CCCC1,542.0,22.0,Train
-79,"1,1-Dimethylcyclohexane",577 [23],581.0,4,813,236,775,198,545,?33,CC1(C)CCCCC1,577.0,23.0,Train
-80,"cis-1,2-Dimethylcyclohexane",577 [23],581.0,4,577,0,506,?71,575,?2,C[C@@H]1CCCC[C@@H]1C,577.0,23.0,Train
-81,"trans-1,2-Dimethylcyclohexane","577 [22, 23]",581.0,4,577,0,506,?71,575,?2,C[C@@H]1CCCC[C@H]1C,577.0,22.0,Train
-82,"cis-1,3-Dimethylcyclohexane",579 [23],581.0,2,577,?2,506,?73,575,?4,C[C@H]1CCC[C@@H](C)C1,579.0,23.0,Train
-83,"trans-1,3-Dimethylcyclohexane",579 [22],581.0,4,577,0,506,?71,575,?2,C[C@H]1CCC[C@H](C)C1,579.0,22.0,Train
-84,Isopropylcyclohexane,566 [23],532.0,?24,545,?11,502,?55,558,1,CC(C)C1CCCCC1,566.0,23.0,Train
-85,Butylcyclopentane,523 [22],532.0,9,499,?24,472,?51,531,7,CCCCC1CCCC1,523.0,22.0,Train
-86,Adamantane,560 [22],531.0,?29,562,2,484,?76,554,?6,C1C2CC3CC1CC(C2)C3,560.0,22.0,Train
-87,"1,3-Dimethyladamantane",615 [22],606.0,?9,486,?129,416,?199,506,?109,CC12CC3CC(C1)CC(C)(C3)C2,615.0,22.0,Train
-88,n-Butylcyclohexane,519 [23],524.0,5,484,?35,446,?73,513,?6,CCCCC1CCCCC1,519.0,23.0,Train
-89,tert-Butylcyclohexane,613 [23],565.0,?49,586,?28,567,?46,580,?33,CC(C)(C)C1CCCCC1,613.0,23.0,Train
-90,"1,2,3,4-Tetramethylcyclohexane",643 [22],565.0,?79,598,?45,477,?166,573,?70,CC1CCC(C)C(C)C1C,643.0,22.0,Train
-91,"1,1-Diethylcyclohexane",577 [22],565.0,?13,739,162,799,222,509,?68,CCC1(CC)CCCCC1,577.0,22.0,Train
-92,"trans-1,4-Diethylcyclohexane",577 [22],565.0,?13,509,?68,456,?121,530,?47,CC[C@@H]1CC[C@@H](CC)CC1,577.0,22.0,Train
-93,Bicyclohexyl,"518 [22, 23]",549.0,31,479,?39,413,?106,496,?22,C1CCC(CC1)C2CCCCC2,518.0,22.0,Train
-94,"2,4-Dicyclohexyl-2-methylpentane",498 [23],500.0,1,473,?25,411,?87,490,?9,CC(CC(C)(C)C1CCCCC1)C2CCCCC2,498.0,23.0,Train
-95,Acetylene,"578 [22, 23]",585.0,7,578,0,539,?39,585,7,C#C,578.0,22.0,Train
-96,Ethylene,"723 [22, 23]",747.0,24,803,80,737,14,706,?17,C=C,723.0,22.0,Train
-97,Propyne,613 [22],577.0,?37,613,0,,,579,?34,CC#C,613.0,22.0,Train
-98,Propene,728 [23],739.0,11,708,?20,627,?101,656,?72,CC=C,728.0,23.0,Train
-99,"1,3-Butadiene",693 [23],656.0,?38,687,?6,585,?109,610,?83,C=CC=C,693.0,23.0,Train
-100,Ethylacetylene,592 [22],568.0,?24,570,?22,,,555,?37,CCC#C,592.0,22.0,Train
-101,Butene,657 [23],614.0,?43,659,2,598,?59,626,?31,CCC=C,657.0,23.0,Train
-102,cis-2-Butene,"598 [22, 23]",614.0,16,598,0,504,?94,607,9,C\C=C/C,598.0,22.0,Train
-103,trans-2-Butene,"597 [22, 23]",614.0,17,598,1,504,?93,607,10,C\C=C\C,597.0,22.0,Train
-104,Isobutylene,"738 [22, 23]",730.0,?8,668,?70,624,?114,646,?92,CC(C)=C,738.0,22.0,Train
-105,2-Methyl-1-buten-3-yne,559 [22],555.0,?4,560,1,,,535,?24,CC(=C)C#C,559.0,22.0,Train
-106,1-Penten-4-yne,541 [22],555.0,14,553,12,,,522,?19,C=CCC#C,541.0,22.0,Train
-107,1-Penten-3-yne,559 [22],555.0,?4,630,71,,,537,?22,CC#CC=C,559.0,22.0,Train
-108,3-Methyl-1-butyne,568 [22],560.0,?8,587,19,,,560,?8,CC(C)C#C,568.0,22.0,Train
-109,1-Pentyne,555 [22],560.0,5,533,?22,,,533,?22,CCCC#C,555.0,22.0,Train
-110,2-Pentyne,575 [22],560.0,?15,604,29,,,550,?25,CCC#CC,575.0,22.0,Train
-111,"2,3,3-Trimethyl-1-butene",656 [4],589.0,?67,690,34,668,12,650,?6,CC(=C)C(C)(C)C,656.0,4.0,Train
-112,2-Methylbutadiene(isoprene),493 [23],589.0,96,647,154,581,88,601,108,Did not work,493.0,23.0,Train
-113,1-Pentene,546 [23],548.0,1,612,65,568,22,598,52,CCCC=C,546.0,23.0,Train
-114,cis-2-Pentene,561 [23],548.0,?14,557,?4,478,?83,580,19,CC\C=C/C,561.0,23.0,Train
-115,trans-2-Pentene,"558 [22, 23]",548.0,?11,557,?1,478,?80,580,22,CC/C=C/C,558.0,22.0,Train
-116,Isopentene,"638 [22, 23]",606.0,?32,680,42,606,?32,633,?5,CC(C)C=C,638.0,22.0,Train
-117,2-Methyl-1-butene,"638 [22, 23]",606.0,?32,620,?18,594,?44,617,?21,CCC(C)=C,638.0,22.0,Train
-118,2-Methyl-2-butene,638 [22],606.0,?32,564,?74,501,?137,598,?40,CC=C(C)C,638.0,22.0,Train
-119,1-Hexyne,541 [22],552.0,11,505,?36,,,515,?26,CCCCC#C,541.0,22.0,Train
-120,3-Hexyne,554 [22],552.0,?2,562,8,,,529,?25,CCC#CCC,554.0,22.0,Train
-121,2-Hexyne,554 [22],552.0,?2,562,8,,,529,?25,CCCC#CC,554.0,22.0,Train
-122,"1,5-Hexadiene",592 [22],581.0,?11,592,0,526,?66,558,?34,C=CCCC=C,592.0,22.0,Train
-123,"3-Methylpenta-1,4-diene",586 [22],581.0,?5,658,72,563,?23,589,3,CC(C=C)C=C,586.0,22.0,Train
-124,"(3E)-hexa-1,3-diene",587 [22],581.0,?6,541,?46,445,?142,543,?44,CC/C=C/C=C,587.0,22.0,Train
-125,1-Hexene,538 [23],539.0,1,568,30,539,0,572,34,CCCCC=C,538.0,23.0,Train
-126,cis-2-Hexene,555 [23],539.0,?16,523,?32,454,?101,556,1,CCC\C=C/C,555.0,23.0,Train
-127,trans-2-Hexene,528 [4],539.0,11,523,?5,454,?74,556,28,CCC/C=C/C,528.0,4.0,Train
-128,cis-3-Hexene,553 [22],539.0,?14,523,?30,454,?99,556,3,CC\C=C/CC,553.0,22.0,Train
-129,trans-3-Hexene,549 [23],539.0,?10,523,?26,454,?95,556,7,CC\C=C\CC,549.0,23.0,Train
-130,Isohexene,577 [4],598.0,21,631,54,576,?1,605,28,CC(C)CC=C,577.0,4.0,Train
-131,"2,3-Dimethyl-1-butene",643 [23],656.0,13,640,?3,602,?41,624,?19,CC(C)C(C)=C,643.0,23.0,Train
-132,"2,3-Dimethyl-2-butene",674 [23],598.0,?77,535,?140,497,?177,590,?85,CC(C)=C(C)C,674.0,23.0,Train
-133,"3,3-Dimethyl L-1-butene",630 [22],598.0,?33,729,99,672,42,660,30,Did not work,630.0,22.0,Train
-134,2-Methyl-1-pentene,579 [4],598.0,19,576,?3,564,?15,589,10,CCCC(C)=C,579.0,4.0,Train
-135,3-Methyl-1-pentene,625 [22],598.0,?28,631,6,576,?49,605,?20,CCC(C)C=C,625.0,22.0,Train
-136,2-Ethyl-1-butene,588 [23],598.0,9,576,?12,564,?24,589,1,CCC(=C)CC,588.0,23.0,Train
-137,1-Heptene,533 [23],531.0,?2,532,?1,510,?23,548,15,CCCCCC=C,533.0,23.0,Train
-138,cis-2-Heptene,512 [22],531.0,19,497,?15,434,?79,534,22,CCCC\C=C/C,512.0,22.0,Train
-139,trans-2-Heptene,517 [22],531.0,14,497,?20,434,?84,534,17,CCCC/C=C/C,517.0,22.0,Train
-140,cis-3-Heptene,563 [22],531.0,?32,497,?66,434,?129,534,?29,CCC\C=C/CC,563.0,22.0,Train
-141,trans-3-Heptene,577 [22],531.0,?46,497,?80,434,?143,534,?43,CCC/C=C/CC,577.0,22.0,Train
-142,2-Methyl-1-hexene,543 [22],589.0,46,538,?5,535,?8,564,21,CCCCC(C)=C,543.0,22.0,Train
-143,2-Ethyl-1-pentene,600 [22],589.0,?11,538,?62,535,?65,564,?36,CCCC(=C)CC,600.0,22.0,Train
-144,3-Ethyl-1-pentene,600 [22],589.0,?11,586,?14,546,?54,578,?22,CCC(CC)C=C,600.0,22.0,Train
-145,"1,7-Octadiene",503 [23],564.0,61,519,16,472,?31,517,14,C=CCCCCC=C,503.0,23.0,Train
-146,1-Octyne,517 [23],535.0,18,475,?42,,,493,?24,CCCCCCC#C,517.0,23.0,Train
-147,1-Octene,523 [23],523.0,0,504,?19,484,?39,527,4,CCCCCCC=C,523.0,23.0,Train
-148,cis-2-Octene,507 [22],523.0,16,481,?26,418,?89,516,9,CCCCC\C=C/C,507.0,22.0,Train
-149,trans-2-Octene,517 [22],523.0,6,481,?36,418,?99,516,?1,CCCCC/C=C/C,517.0,22.0,Train
-150,cis-3-Octene,538 [22],523.0,?15,481,?57,418,?120,516,?22,CCCC\C=C/CC,538.0,22.0,Train
-151,trans-3-Octene,548 [22],523.0,?25,481,?67,418,?130,516,?32,CCCC/C=C/CC,548.0,22.0,Train
-152,cis-4-Octene,539 [22],523.0,?16,481,?58,418,?121,516,?23,CCC\C=C/CCC,539.0,22.0,Train
-153,6-Methyl-1-heptene,547 [22],581.0,34,546,?1,518,?29,554,7,CC(C)CCCC=C,547.0,22.0,Train
-154,2-Ethyl-1-hexene,600 [22],581.0,?19,508,?92,506,?94,541,?59,CCCCC(=C)CC,600.0,22.0,Train
-155,"2,4,4-Trimethyl-2-pentene",581 [23],581.0,0,582,1,545,?36,602,21,CC(C)=CC(C)(C)C,581.0,23.0,Train
-156,"2,4,4-Trimethylpentene","693 [22, 23]",639.0,?54,641,?52,640,?53,621,?72,CC(=C)CC(C)(C)C,693.0,22.0,Train
-157,3-Ethylhex-1-ene,552 [22],581.0,29,546,?6,518,?34,554,2,CCCC(CC)C=C,552.0,22.0,Train
-158,"2,3-Dimethylhexene",590 [22],581.0,?9,553,?37,543,?47,570,?20,CCCC(C)C(C)=C,590.0,22.0,Train
-159,4-Methylhept-1-ene,548 [22],581.0,33,546,?2,518,?30,554,6,CCCC(C)CC=C,548.0,22.0,Train
-160,1-Nonene,"510 [22, 23]",515.0,4,485,?25,459,?52,511,1,CCCCCCCC=C,510.0,22.0,Train
-161,"Deca-1,9-diene",565 [22],548.0,?17,479,?86,429,?136,494,?71,C=CCCCCCCC=C,565.0,22.0,Train
-162,Dec-1-yne,497 [22],519.0,22,479,?18,,,493,?4,CCCCCCCCC#C,497.0,22.0,Train
-163,1-Decene,508 [22],506.0,?2,475,?33,437,?71,498,?10,CCCCCCCCC=C,508.0,22.0,Train
-164,1-Undecene,510 [23],498.0,?12,474,?37,420,?90,491,?19,CCCCCCCCCC=C,510.0,23.0,Train
-165,Dodecene,528 [23],515.0,?13,479,?49,408,?120,490,?38,CCCCCCCCCCC=C,528.0,23.0,Train
-166,1-Tridecene,510 [23],515.0,5,489,?21,402,?108,495,?15,CCCCCCCCCCCC=C,510.0,23.0,Train
-167,1-Tetradecene,508 [23],515.0,7,501,?7,403,?105,507,?1,CCCCCCCCCCCCC=C,508.0,23.0,Train
-168,1-Pentadecene,510 [23],515.0,5,511,1,412,?98,526,16,CCCCCCCCCCCCCC=C,510.0,23.0,Train
-169,1-Hexadecene,513 [23],515.0,2,514,1,430,?83,554,41,CCCCCCCCCCCCCCC=C,513.0,23.0,Train
-170,1-Heptadecene,510 [23],515.0,5,505,?5,459,?51,591,81,CCCCCCCCCCCCCCCC=C,510.0,23.0,Train
-171,1-Octadecene,523 [23],515.0,?8,478,?45,499,?24,637,114,CCCCCCCCCCCCCCCCC=C,523.0,23.0,Train
-172,1-Nonadecene,510 [23],515.0,5,426,?84,552,41,694,184,CCCCCCCCCCCCCCCCCC=C,510.0,23.0,Train
-173,1-Eicosene,510 [23],515.0,5,342,?168,618,108,762,251,CCCCCCCCCCCCCCCCCCC=C,510.0,23.0,Train
-174,(2E)Icos-2-ene,499 [22],482.0,?17,171,?328,943,444,813,314,CCCCCCCCCCCCCCCCC/C=C/C,499.0,22.0,Train
-175,Cyclopentene,"668 [22, 23]",647.0,?21,668,0,655,?13,703,34,C1CC=CC1,668.0,22.0,Train
-176,Cyclohexene,"583 [22, 23]",639.0,56,629,46,622,39,673,90,C1CCC=CC1,583.0,22.0,Train
-177,"1-Methyl-1,3-cyclopentadiene",718 [22],681.0,?37,475,?243,722,4,707,?11,CC1=CC=CC1,718.0,22.0,Train
-178,2-Norbornene,"778 [22, 23]",672.0,?106,671,?107,627,?151,688,?90,C1CC2CC1C=C2,778.0,22.0,Train
-179,Vinylcyclohexane,543 [22],664.0,121,657,114,562,19,625,82,C=CC1CCCCC1,543.0,22.0,Train
-180,Benzene,771 [23],722.0,?49,827,56,762,?10,786,15,c1ccccc1,771.0,23.0,Train
-181,Toluene,693 [23],714.0,19,767,72,757,62,774,79,Cc1ccccc1,693.0,23.0,Train
-182,Ethylbenzene,"705 [22, 23]",706.0,3,723,20,737,34,746,43,CCc1ccccc1,705.0,22.0,Train
-183,p-Xylene,802 [22],807.0,5,789,?13,752,?50,761,?41,Cc1ccc(C)cc1,802.0,22.0,Train
-184,o-Xylene,737 [22],726.0,?11,756,19,752,15,761,24,Cc1ccccc1C,737.0,22.0,Train
-185,m-Xylene,738 [22],726.0,?12,798,60,752,14,761,23,Cc1cccc(C)c1,738.0,22.0,Train
-186,Cumene,693 [23],697.0,4,742,49,743,49,753,60,CC(C)c1ccccc1,693.0,23.0,Train
-187,m-Ethyltoluene,753 [23],718.0,?35,760,6,732,?22,733,?21,CCc1cccc(C)c1,753.0,23.0,Train
-188,"1,2,3-Trimethylbenzene","743 [22, 23]",718.0,?25,788,45,748,4,748,5,Cc1cccc(C)c1C,743.0,22.0,Train
-189,"1,2,4-Trimethylbenzene","788 [22, 23]",718.0,?40,779,20,748,?11,748,?10,Cc1ccc(C)c(C)c1,788.0,22.0,Train
-190,"1,3,5-Trimethylbenzene",833 [23],799.0,?34,819,?14,748,?86,748,?85,Cc1cc(C)cc(C)c1,833.0,23.0,Train
-191,o-Ethyltoluene,713 [23],718.0,5,709,?4,732,18,733,19,CCc1ccccc1C,713.0,23.0,Train
-192,p-Ethyltoluene,808 [23],799.0,?9,748,?60,732,?77,733,?76,CCc1ccc(C)cc1,808.0,23.0,Train
-193,1-Methyl-2-ethylbenzene,713 [23],718.0,5,709,?4,732,18,733,19,CCc1ccccc1C,713.0,23.0,Train
-194,tert-Butylbenzene,718 [23],689.0,?29,822,104,783,64,778,60,CC(C)(C)c1ccccc1,718.0,23.0,Train
-195,m-Diethylbenzene,"723 [22, 23]",709.0,?14,714,?9,708,?15,703,?20,CCc1cccc(CC)c1,723.0,22.0,Train
-196,o-Diethylbenzene,668 [23],709.0,41,661,?8,708,40,703,35,CCc1ccccc1CC,668.0,23.0,Train
-197,Naphthalene,813 [4],814.0,1,827,14,801,?12,808,?5,c1ccc2ccccc2c1,813.0,4.0,Train
-198,Butylbenzene,685 [22],689.0,6,626,?57,689,6,687,3,CCCCc1ccccc1,685.0,22.0,Train
-199,sec-Butylbenzene,688 [23],689.0,1,695,6,721,32,724,36,CCC(C)c1ccccc1,688.0,23.0,Train
-200,Isobutylbenzene,698 [23],689.0,?9,695,?4,721,22,724,26,CC(C)Cc1ccccc1,698.0,23.0,Train
-201,"1,2,3,5-Tetramethylbenzene",700 [23],709.0,9,813,113,743,42,735,35,Cc1cc(C)c(C)c(C)c1,700.0,23.0,Train
-202,o-Cymene,709 [23],709.0,0,729,20,737,28,740,31,CC(C)c1ccccc1C,709.0,23.0,Train
-203,m-Cymene,709 [23],709.0,0,777,68,737,28,740,31,CC(C)c1cccc(C)c1,709.0,23.0,Train
-204,p-Cymene,709 [23],709.0,0,766,57,737,28,740,31,CC(C)c1ccc(C)cc1,709.0,23.0,Train
-205,p-Diethylbenzene,"703 [22, 23]",709.0,6,701,?2,708,5,703,0,CCc1ccc(CC)cc1,703.0,22.0,Train
-206,"1,2,3,4-Tetramethylbenzene",700 [22],709.0,9,806,106,743,43,735,35,Cc1ccc(C)c(C)c1C,700.0,22.0,Train
-207,1-Methylnaphthalene,"802 [22, 23]",806.0,4,793,?9,799,?3,796,?6,Cc1cccc2ccccc12,802.0,22.0,Train
-208,2-Methylnaphthalene,761 [23],806.0,45,793,32,799,38,796,35,Cc1ccc2ccccc2c1,761.0,23.0,Train
-209,p-tert-Butyltoluene,783 [23],803.0,19,803,20,779,?4,765,?18,Cc1ccc(cc1)C(C)(C)C,783.0,23.0,Train
-210,"2,3-Dimethyl-1-propylbenzene",738 [22],701.0,?37,700,?38,702,?36,689,?49,CCCc1cccc(C)c1C,738.0,22.0,Train
-211,Biphenyl,843 [22],839.0,?4,799,?44,805,?38,833,?10,c1ccc(cc1)c2ccccc2,843.0,22.0,Train
-212,1-Ethylnaphthalene,754 [4],797.0,43,754,0,788,34,770,16,CCc1cccc2ccccc12,754.0,4.0,Train
-213,Cyclohexylbenzene,813 [22],714.0,?99,605,?208,633,?180,644,?169,C1CCC(CC1)c2ccccc2,813.0,22.0,Train
-214,"3,5-Dimethyl-tert-butylbenzene",833 [23],794.0,?39,826,?7,775,?58,752,?81,Cc1cc(C)cc(c1)C(C)(C)C,833.0,23.0,Train
-215,Diisopropylbenzene,721 [23],693.0,?28,701,?20,721,0,718,?4,CC(C)c1ccccc1C(C)C,721.0,23.0,Train
-216,m-Diisopropylbenzene,722 [23],693.0,?29,753,30,721,?1,718,?5,CC(C)c1cccc(c1)C(C)C,722.0,23.0,Train
-217,p-(t-Butyl)ethylbenzene,553 [22],551.0,?2,767,214,763,210,737,184,CCc1ccc(cc1)C(C)(C)C,553.0,22.0,Train
-218,"1,4-Di-tert-butylbenzene",496 [22],535.0,39,815,319,798,302,769,273,CC(C)(C)c1ccc(cc1)C(C)(C)C,496.0,22.0,Train
-219,"1,2,3,4,5-Pentamethylbenzene",703 [22],701.0,?2,824,121,737,34,722,19,Cc1cc(C)c(C)c(C)c1C,703.0,22.0,Train
-220,"1,2,3-Trimethyl-4-ethylbenzne",766 [22],701.0,?65,771,5,720,?46,705,?61,Did not work,766.0,22.0,Train
-221,"1,2,4-Trimethyl-3-ethylbenzene",766 [22],701.0,?65,771,5,720,?46,705,?61,CCc1c(C)ccc(C)c1C,766.0,22.0,Train
-222,"1,2,4-Trimethyl-5-ethylbenzene",766 [22],701.0,?65,771,5,720,?46,705,?61,CCc1cc(C)c(C)cc1C,766.0,22.0,Train
-223,"1,2,4-Triethylbenzene",640 [22],632.0,?8,639,?1,676,36,659,19,CCc1ccc(CC)c(CC)c1,640.0,22.0,Train
-224,"1,2,3-Triethylbenzene",640 [22],632.0,?8,652,12,676,36,659,19,CCc1cccc(CC)c1CC,640.0,22.0,Train
-225,Diphenylmethane,"758 [22, 23]",750.0,?8,762,4,797,39,811,53,C(c1ccccc1)c2ccccc2,758.0,22.0,Train
-226,Anthracene,"813 [22, 23]",764.0,?49,813,0,809,?4,827,14,c1ccc2cc3ccccc3cc2c1,813.0,22.0,Train
-227,"1,1-Diphenylethane","713 [22, 23]",742.0,28,779,66,799,86,817,104,CC(c1ccccc1)c2ccccc2,713.0,22.0,Train
-228,"1,2-Diphenylethane",753 [22],742.0,?12,717,?37,785,32,786,33,C(Cc1ccccc1)c2ccccc2,753.0,22.0,Train
-229,2-Ethylnaphthalene,750 [22],716.0,?34,754,4,788,38,770,20,CCc1ccc2ccccc2c1,750.0,22.0,Train
-230,1-Butylnaphthalene,"633 [22, 23]",619.0,?14,658,25,757,124,712,79,CCCCc1cccc2ccccc12,633.0,22.0,Train
-231,1-Nonylnaphthalene,576 [22],578.0,2,485,?91,633,57,569,?7,CCCCCCCCCc1cccc2ccccc12,576.0,22.0,Train
-232,1-Decylnaphthalene,567 [22],569.0,2,475,?92,604,37,545,?22,CCCCCCCCCCc1cccc2ccccc12,567.0,22.0,Train
-233,Naphthacene,830 [22],856.0,26,785,?45,784,?46,844,14,c1ccc2cc3cc4ccccc4cc3cc2c1,830.0,22.0,Train
-234,"1,2,3,5-Tetraethylbenzene",598 [22],616.0,18,643,45,641,43,616,18,CCc1cc(CC)c(CC)c(CC)c1,598.0,22.0,Train
-235,Pentaethylbenzene,566 [22],599.0,33,622,56,605,39,577,11,CCc1cc(CC)c(CC)c(CC)c1CC,566.0,22.0,Train
-236,Hexaethylbenzene,541 [22],583.0,42,566,25,568,27,542,1,CCc1c(CC)c(CC)c(CC)c(CC)c1CC,541.0,22.0,Train
-237,p-Terphenyl,808 [22],814.0,6,828,19,804,?4,866,58,c1ccc(cc1)c2ccc(cc2)c3ccccc3,808.0,22.0,Train
-238,Ethynylbenzene,763 [22],789.0,26,655,?108,,,648,?115,C#Cc1ccccc1,763.0,22.0,Train
-239,Styrene,753 [23],747.0,?6,749,?4,727,?26,729,?24,C=Cc1ccccc1,753.0,23.0,Train
-240,2-Vinyltoluene,767 [23],759.0,?8,736,?31,721,?46,716,?52,Cc1ccccc1C=C,767.0,23.0,Train
-241,3-Vinyltoluene,762 [23],759.0,?3,782,20,721,?41,716,?47,Cc1cccc(C=C)c1,762.0,23.0,Train
-242,4-Vinyltoluene,848 [23],840.0,?8,772,?76,721,?127,716,?133,Cc1ccc(C=C)cc1,848.0,23.0,Train
-243,Isopropenylbenzene,718 [23],739.0,21,711,?7,724,6,720,1,CC(=C)c1ccccc1,718.0,23.0,Train
-244,cis-1-Propenylbenzene,848 [22],739.0,?109,639,?209,615,?233,679,?169,C\C=C/c1ccccc1,848.0,22.0,Train
-245,trans-1-Propenylbenzene,848 [22],739.0,?109,639,?209,615,?233,679,?169,C/C=C/c1ccccc1,848.0,22.0,Train
-246,2-Ethyl-1-vinylbenzene,634 [22],650.0,16,688,54,697,63,685,51,CCc1ccccc1C=C,634.0,22.0,Train
-247,3-Ethyl-1-vinylbenzene,657 [22],650.0,?7,740,83,697,40,685,28,CCc1cccc(C=C)c1,657.0,22.0,Train
-248,Ethane,788 [23],793.0,4,729,?59,669,?120,703,?85,CC,788.0,23.0,Train
-249,"2,3-Dimethylbutane",693 [23],718.0,25,672,?21,627,?66,658,?35,CC(C)C(C)C,693.0,23.0,Test
-250,"2,2-Dimethylpentane",610 [23],612.0,2,653,43,656,46,647,37,CCCC(C)(C)C,610.0,23.0,Test
-251,"2,2,3-Trimethylpentane",703 [23],701.0,?2,673,?30,664,?39,655,?49,CCC(C)C(C)(C)C,703.0,23.0,Test
-252,4-Methylheptane,510 [22],503.0,?7,527,17,530,20,567,57,CCCC(C)CCC,510.0,22.0,Test
-253,"2,6-Dimethylheptane",553 [22],596.0,43,541,?12,538,?15,574,21,CC(C)CCCC(C)C,553.0,22.0,Test
-254,Hexadecane,475 [23],473.0,?2,511,36,421,?54,537,62,CCCCCCCCCCCCCCCC,475.0,23.0,Test
-255,Docosane,475 [22],475.0,0,?84,,754,279,878,403,CCCCCCCCCCCCCCCCCCCCCC,475.0,22.0,Test
-256,Ethylcyclohexane,"535 [22, 23]",540.0,5,531,?4,494,?41,552,17,CCC1CCCCC1,535.0,22.0,Test
-257,Propylcyclohexane,"521 [22, 23]",532.0,11,503,?18,469,?52,531,10,CCCC1CCCCC1,521.0,22.0,Test
-258,Cyclododecane,503 [23],432.0,?72,474,?29,403,?101,490,?14,C1CCCCCCCCCCC1,503.0,23.0,Test
-259,Dicyclopentadiene,783 [22],731.0,?52,714,?69,647,?136,745,?39,C1C=CC2C3CC(C=C3)C12,783.0,22.0,Test
-260,Dimethylacetylene,596 [22],568.0,?28,651,55,,,573,?23,CC#CC,596.0,22.0,Test
-261,Non-1-yne,506 [22],527.0,21,473,?33,,,490,?16,CCCCCCCC#C,506.0,22.0,Test
-262,3-Methyl-1-hexene,578 [22],589.0,11,586,8,546,?32,578,0,CCCC(C)C=C,578.0,22.0,Test
-263,trans-4-Octene,552 [22],523.0,?29,481,?71,418,?134,516,?36,CCC\C=C\CCC,552.0,22.0,Test
-264,"(3E)-2-methylpenta-1,3-diene",581 [22],581.0,0,548,?33,464,?117,558,?23,C/C=C/C(C)=C,581.0,22.0,Test
-265,Triacont-1-ene,524 [22],515.0,?9,"?4,512",,"2,388","1,864","2,174","1,650",CCCCCCCCCCCCCCCCCCCCCCCCCCCCC=C,524.0,22.0,Test
-266,Cyclododecene,531 [23],590.0,58,479,?53,436,?95,520,?11,C1CCCCCC=CCCCC1,531.0,23.0,Test
-267,"1,4-Diisopropylbenzene",722 [22],693.0,?29,741,19,721,?1,718,?4,CC(C)c1ccc(cc1)C(C)C,722.0,22.0,Test
-268,Propylbenzene,729 [22],697.0,?32,674,?55,714,?15,717,?13,CCCc1ccccc1,729.0,22.0,Test
-269,"1,2,4,5-Tetramethylbenzene",700 [22],709.0,9,806,106,743,43,735,35,Cc1cc(C)c(C)cc1C,700.0,22.0,Test
-270,1-Propylnaphthalene,690 [22],708.0,18,707,17,774,84,741,51,CCCc1cccc2ccccc12,690.0,22.0,Test
-271,o-Terphenyl,830 [22],814.0,11,815,12,804,1,866,63,c1ccc(cc1)c2ccccc2c3ccccc3,830.0,22.0,Test
-272,1-Ethyl-4-vinylbenzene,635 [22],650.0,15,728,93,697,62,685,50,CCc1ccc(C=C)cc1,635.0,22.0,Test
-273,m-Terphenyl,828 [22],814.0,?14,828,0,804,?24,866,38,c1ccc(cc1)c2cccc(c2)c3ccccc3,828.0,22.0,Test
+Hydrocarbon name,Exp,New,Dev,Albahri,Dev.1,AlbahriGeorge,Dev.2,Chen et al.,Dev.3,SMILES,Temp,Ref,Split
+Methane,868 [23],859,?9,780,?88,730,?138,750,?118,C,868,23,Train
+Propane,723 [22],726,3,680,?43,640,?83,673,?50,CCC,723,22,Train
+Butane,645 [4],660,15,632,?13,611,?34,643,?2,CCCC,645,4,Train
+2-Methylpropane,"733 [22, 23]",734,1,701,?32,648,?85,680,?53,CC(C)C,733,22,Train
+Pentane,538 [4],506,?32,586,48,581,43,614,76,CCCCC,538,4,Train
+"2,2-Dimethylpropane","723 [22, 23]",726,3,749,26,709,?14,707,?16,CC(C)(C)C,723,22,Train
+2-Methylbutane,"693 [22, 23]",726,33,652,?41,619,?74,650,?43,CCC(C)C,693,22,Train
+Hexane,497 [23],498,1,547,50,552,54,587,90,CCCCCC,497,23,Train
+"2,2-Dimethylbutane",678 [23],718,40,702,24,684,5,677,?1,CCC(C)(C)C,678,23,Train
+2-Methylpentane,"579 [22, 23]",556,?23,605,26,589,10,621,42,CCCC(C)C,579,22,Train
+3-Methylpentane,573 [22],556,?17,605,32,589,16,621,48,CCC(C)CC,573,22,Train
+Heptane,486 [4],489,3,515,29,522,36,561,75,CCCCCCC,486,4,Train
+"3,3-Dimethylpentane",610 [23],612,2,653,43,656,46,647,37,CCC(C)(C)CC,610,23,Train
+"2,4-Dimethylpentane","610 [22, 23]",612,2,624,14,597,?13,628,18,CC(C)CC(C)C,610,22,Train
+"2,3-Dimethylpentane","610 [22, 23]",612,2,624,14,597,?13,628,18,CCC(C)C(C)C,610,22,Train
+2-Methylhexane,553 [23],548,?5,563,9,560,6,593,40,CCCCC(C)C,553,23,Train
+3-Methylhexane,"553 [22, 23]",548,?5,563,9,560,6,593,40,CCCC(C)CC,553,22,Train
+"2,2,3-Trimethylbutane",723 [23],710,?13,722,?1,691,?32,685,?39,CC(C)C(C)(C)C,723,23,Train
+Octane,483 [23],481,?2,492,9,495,12,539,56,CCCCCCCC,483,23,Train
+"2,3,4-Trimethylpentane",700 [23],701,1,644,?56,606,?95,635,?65,CC(C)C(C)C(C)C,700,23,Train
+"3,4-Dimethylhexane",588 [23],604,16,580,?8,568,?20,600,12,CCC(C)C(C)CC,588,23,Train
+"2,2,4-Trimethylpentane",683 [23],701,18,673,?10,664,?19,655,?29,CC(C)CC(C)(C)C,683,23,Train
+"3,3-Dimethylhexane",610 [23],604,?6,606,?4,627,17,618,8,CCCC(C)(C)CC,610,23,Train
+"2,3-Dimethylhexane",588 [23],604,16,580,?8,568,?20,600,12,CCCC(C)C(C)C,588,23,Train
+"2,4-Dimethylhexane",588 [23],604,16,580,?8,568,?20,600,12,CCC(C)CC(C)C,588,23,Train
+"2,5-Dimethylhexane",588 [23],604,16,580,?8,568,?20,600,12,CC(C)CCC(C)C,588,23,Train
+"2,3,3-Trimethylpentane",703 [23],701,?2,673,?30,664,?39,655,?49,CCC(C)(C)C(C)C,703,23,Train
+2-Methylheptane,520 [23],503,?17,527,7,530,10,567,47,CCCCCC(C)C,520,23,Train
+3-Methylheptane,518 [22],499,?19,527,9,530,12,567,49,CCCCC(C)CC,518,22,Train
+"2,2-Dimethylhexane",610 [22],604,?6,606,?4,627,17,618,8,CCCCC(C)(C)C,610,22,Train
+Nonane,485 [23],473,?5,478,0,469,?9,520,42,CCCCCCCCC,485,23,Train
+4-Methyloctane,493 [23],495,2,500,7,502,9,544,51,CCCCC(C)CCC,493,23,Train
+2-Methyloctane,493 [23],495,2,500,7,502,9,544,51,CCCCCCC(C)C,493,23,Train
+3-Methyloctane,493 [23],495,2,500,7,502,9,544,51,CCCCCC(C)CC,493,23,Train
+"2,2,3,4-Tetramethylpentane",703 [23],693,?10,694,?9,671,?32,662,?41,CC(C)C(C)C(C)(C)C,703,23,Train
+"2,2,4,4-Tetramethylpentane",703 [23],693,?10,723,20,722,19,681,?22,CC(C)(C)CC(C)(C)C,703,23,Train
+"2,2,3,3-Tetramethylpentane",703 [22],693,?10,723,20,722,19,681,?22,CCC(C)(C)C(C)(C)C,703,22,Train
+"2,3,3,4-Tetramethylpentane",703 [22],693,?10,694,?9,671,?32,662,?41,CC(C)C(C)(C)C(C)C,703,22,Train
+Tetraethylmethane,563 [23],531,?32,563,0,598,35,590,27,CCC(CC)(CC)CC,563,23,Train
+"2,4-Dimethyl-3-ethylpentane",663 [23],693,30,598,?66,576,?87,607,?56,CCC(C(C)C)C(C)C,663,23,Train
+"2,2,5-Trimethylhexane",623 [22],596,?27,625,2,635,12,625,2,CC(C)CCC(C)(C)C,623,22,Train
+"2,2-Dimethylheptane",588 [22],596,8,563,?25,598,10,590,2,CCCCCC(C)(C)C,588,22,Train
+Decane,478 [23],465,?13,473,?5,446,?32,505,27,CCCCCCCCCC,478,23,Train
+3-Methylnonane,487 [23],486,?1,483,?4,476,?11,524,37,CCCCCCC(C)CC,487,23,Train
+2-Methylnonane,487 [22],486,?1,483,?4,476,?11,524,37,CCCCCCCC(C)C,487,22,Train
+4-Methylnonane,485 [22],486,1,483,?2,476,?9,524,39,CCCCCC(C)CCC,485,22,Train
+5-Methylnonane,485 [22],486,1,483,?2,476,?9,524,39,CCCCC(C)CCCC,485,22,Train
+"3,3,5-Trimethylheptane",655 [22],685,30,580,?75,606,?49,597,?58,CCC(C)CC(C)(C)CC,655,22,Train
+"2,2,3,3-Tetramethylhexane",714 [22],685,?29,674,?40,698,?16,651,?63,CCCC(C)(C)C(C)(C)C,714,22,Train
+"2,2,5,5-Tetramethylhexane",752 [22],685,?67,674,?78,698,?54,651,?101,CC(C)(C)CCC(C)(C)C,752,22,Train
+"2,2-Dimethyloctane",571 [22],588,17,528,?43,568,?3,565,?6,CCCCCCC(C)(C)C,571,22,Train
+Undecane,513 [23],515,2,476,?37,427,?86,495,?18,CCCCCCCCCCC,513,23,Train
+3-Methylundecane,480 [22],470,?10,474,?6,432,?48,497,17,CCCCCCCCC(C)CC,480,22,Train
+Dodecane,473 [23],506,33,484,11,413,?60,490,17,CCCCCCCCCCCC,473,23,Train
+Tridecane,475 [23],498,23,496,21,404,?71,491,16,CCCCCCCCCCCCC,475,23,Train
+Tetradecane,493 [23],490,?3,507,14,402,?91,499,6,CCCCCCCCCCCCCC,493,23,Train
+Pentadecane,475 [23],482,7,514,39,407,?68,514,39,CCCCCCCCCCCCCCC,475,23,Train
+Heptadecane,475 [23],465,?10,492,17,445,?30,569,94,CCCCCCCCCCCCCCCCC,475,23,Train
+Octadecane,508 [23],475,?33,452,?56,480,?29,609,101,CCCCCCCCCCCCCCCCCC,508,23,Train
+Nonadecae,478 [23],475,?3,383,?95,526,48,660,182,CCCCCCCCCCCCCCCCCCC,478,23,Train
+Eicosane,"475 [22, 23]",475,0,276,?199,587,112,721,246,CCCCCCCCCCCCCCCCCCCC,475,22,Train
+Henicosane,"475 [22, 23]",475,0,124,?351,662,187,794,319,CCCCCCCCCCCCCCCCCCCCC,475,22,Train
+Tricosane,475 [22],475,0,?358,,863,388,974,499,CCCCCCCCCCCCCCCCCCCCCCC,475,22,Train
+n-Tetracosane,475 [22],475,0,?709,,992,517,"1,084",609,CCCCCCCCCCCCCCCCCCCCCCCC,475,22,Train
+Pentacosane,475 [22],475,0,"?1,149",,"1,141",666,"1,207",732,CCCCCCCCCCCCCCCCCCCCCCCCC,475,22,Train
+Hexacosane,475 [22],475,0,"?1,690",,"1,312",837,"1,344",869,CCCCCCCCCCCCCCCCCCCCCCCCCC,475,22,Train
+Heptacosane,475 [22],475,0,"?2,346",,"1,508","1,033","1,497","1,022",CCCCCCCCCCCCCCCCCCCCCCCCCCC,475,22,Train
+n-Octacosane,475 [22],475,0,"?3,131",,"1,729","1,254","1,665","1,190",CCCCCCCCCCCCCCCCCCCCCCCCCCCC,475,22,Train
+Nonacosane,475 [22],475,0,"?4,061",,"1,977","1,502","1,849","1,374",CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,475,22,Train
+Cyclopropane,771 [23],768,?3,668,"?1,03",640,?131,662,?110,C1CC1,771,23,Train
+Cyclobutane,"700 [22, 23]",701,1,629,?71,606,?94,632,?68,C1CCC1,700,22,Train
+Cyclopentane,653 [23],635,?18,591,?62,572,?81,604,?49,C1CCCC1,653,23,Train
+Cyclohexane,518 [23],481,?37,558,40,538,20,577,59,C1CCCCC1,518,23,Train
+Methylcyclopentane,588 [23],557,?31,602,14,555,?33,603,14,CC1CCCC1,588,23,Train
+Cycloheptane,428 [22],473,45,529,101,505,77,553,125,C1CCCCCC1,428,22,Train
+Methylcyclohexane,533 [23],549,16,568,34,522,?11,576,43,CC1CCCCC1,533,23,Train
+Ethylcyclopentane,"533 [22, 23]",549,16,560,27,526,?7,576,43,CCC1CCCC1,533,22,Train
+Cyclooctane,430 [22],465,35,506,76,475,45,532,102,C1CCCCCCC1,430,22,Train
+n-Propylcyclopentane,"542 [22, 23]",540,?2,525,?17,498,?44,552,10,CCCC1CCCC1,542,22,Train
+"1,1-Dimethylcyclohexane",577 [23],581,4,813,236,775,198,545,?33,CC1(C)CCCCC1,577,23,Train
+"cis-1,2-Dimethylcyclohexane",577 [23],581,4,577,0,506,?71,575,?2,C[C@@H]1CCCC[C@@H]1C,577,23,Train
+"trans-1,2-Dimethylcyclohexane","577 [22, 23]",581,4,577,0,506,?71,575,?2,C[C@@H]1CCCC[C@H]1C,577,22,Train
+"cis-1,3-Dimethylcyclohexane",579 [23],581,2,577,?2,506,?73,575,?4,C[C@H]1CCC[C@@H](C)C1,579,23,Train
+"trans-1,3-Dimethylcyclohexane",579 [22],581,4,577,0,506,?71,575,?2,C[C@H]1CCC[C@H](C)C1,579,22,Train
+Isopropylcyclohexane,566 [23],532,?24,545,?11,502,?55,558,1,CC(C)C1CCCCC1,566,23,Train
+Butylcyclopentane,523 [22],532,9,499,?24,472,?51,531,7,CCCCC1CCCC1,523,22,Train
+Adamantane,560 [22],531,?29,562,2,484,?76,554,?6,C1C2CC3CC1CC(C2)C3,560,22,Train
+"1,3-Dimethyladamantane",615 [22],606,?9,486,?129,416,?199,506,?109,CC12CC3CC(C1)CC(C)(C3)C2,615,22,Train
+n-Butylcyclohexane,519 [23],524,5,484,?35,446,?73,513,?6,CCCCC1CCCCC1,519,23,Train
+tert-Butylcyclohexane,613 [23],565,?49,586,?28,567,?46,580,?33,CC(C)(C)C1CCCCC1,613,23,Train
+"1,2,3,4-Tetramethylcyclohexane",643 [22],565,?79,598,?45,477,?166,573,?70,CC1CCC(C)C(C)C1C,643,22,Train
+"1,1-Diethylcyclohexane",577 [22],565,?13,739,162,799,222,509,?68,CCC1(CC)CCCCC1,577,22,Train
+"trans-1,4-Diethylcyclohexane",577 [22],565,?13,509,?68,456,?121,530,?47,CC[C@@H]1CC[C@@H](CC)CC1,577,22,Train
+Bicyclohexyl,"518 [22, 23]",549,31,479,?39,413,?106,496,?22,C1CCC(CC1)C2CCCCC2,518,22,Train
+"2,4-Dicyclohexyl-2-methylpentane",498 [23],500,1,473,?25,411,?87,490,?9,CC(CC(C)(C)C1CCCCC1)C2CCCCC2,498,23,Train
+Acetylene,"578 [22, 23]",585,7,578,0,539,?39,585,7,C#C,578,22,Train
+Ethylene,"723 [22, 23]",747,24,803,80,737,14,706,?17,C=C,723,22,Train
+Propyne,613 [22],577,?37,613,0,,,579,?34,CC#C,613,22,Train
+Propene,728 [23],739,11,708,?20,627,?101,656,?72,CC=C,728,23,Train
+"1,3-Butadiene",693 [23],656,?38,687,?6,585,?109,610,?83,C=CC=C,693,23,Train
+Ethylacetylene,592 [22],568,?24,570,?22,,,555,?37,CCC#C,592,22,Train
+Butene,657 [23],614,?43,659,2,598,?59,626,?31,CCC=C,657,23,Train
+cis-2-Butene,"598 [22, 23]",614,16,598,0,504,?94,607,9,C\C=C/C,598,22,Train
+trans-2-Butene,"597 [22, 23]",614,17,598,1,504,?93,607,10,C\C=C\C,597,22,Train
+Isobutylene,"738 [22, 23]",730,?8,668,?70,624,?114,646,?92,CC(C)=C,738,22,Train
+2-Methyl-1-buten-3-yne,559 [22],555,?4,560,1,,,535,?24,CC(=C)C#C,559,22,Train
+1-Penten-4-yne,541 [22],555,14,553,12,,,522,?19,C=CCC#C,541,22,Train
+1-Penten-3-yne,559 [22],555,?4,630,71,,,537,?22,CC#CC=C,559,22,Train
+3-Methyl-1-butyne,568 [22],560,?8,587,19,,,560,?8,CC(C)C#C,568,22,Train
+1-Pentyne,555 [22],560,5,533,?22,,,533,?22,CCCC#C,555,22,Train
+2-Pentyne,575 [22],560,?15,604,29,,,550,?25,CCC#CC,575,22,Train
+"2,3,3-Trimethyl-1-butene",656 [4],589,?67,690,34,668,12,650,?6,CC(=C)C(C)(C)C,656,4,Train
+2-Methylbutadiene(isoprene),493 [23],589,96,647,154,581,88,601,108,CC(=C)C=C,493,23,Train
+1-Pentene,546 [23],548,1,612,65,568,22,598,52,CCCC=C,546,23,Train
+cis-2-Pentene,561 [23],548,?14,557,?4,478,?83,580,19,CC\C=C/C,561,23,Train
+trans-2-Pentene,"558 [22, 23]",548,?11,557,?1,478,?80,580,22,CC/C=C/C,558,22,Train
+Isopentene,"638 [22, 23]",606,?32,680,42,606,?32,633,?5,CC(C)C=C,638,22,Train
+2-Methyl-1-butene,"638 [22, 23]",606,?32,620,?18,594,?44,617,?21,CCC(C)=C,638,22,Train
+2-Methyl-2-butene,638 [22],606,?32,564,?74,501,?137,598,?40,CC=C(C)C,638,22,Train
+1-Hexyne,541 [22],552,11,505,?36,,,515,?26,CCCCC#C,541,22,Train
+3-Hexyne,554 [22],552,?2,562,8,,,529,?25,CCC#CCC,554,22,Train
+2-Hexyne,554 [22],552,?2,562,8,,,529,?25,CCCC#CC,554,22,Train
+"1,5-Hexadiene",592 [22],581,?11,592,0,526,?66,558,?34,C=CCCC=C,592,22,Train
+"3-Methylpenta-1,4-diene",586 [22],581,?5,658,72,563,?23,589,3,CC(C=C)C=C,586,22,Train
+"(3E)-hexa-1,3-diene",587 [22],581,?6,541,?46,445,?142,543,?44,CC/C=C/C=C,587,22,Train
+1-Hexene,538 [23],539,1,568,30,539,0,572,34,CCCCC=C,538,23,Train
+cis-2-Hexene,555 [23],539,?16,523,?32,454,?101,556,1,CCC\C=C/C,555,23,Train
+trans-2-Hexene,528 [4],539,11,523,?5,454,?74,556,28,CCC/C=C/C,528,4,Train
+cis-3-Hexene,553 [22],539,?14,523,?30,454,?99,556,3,CC\C=C/CC,553,22,Train
+trans-3-Hexene,549 [23],539,?10,523,?26,454,?95,556,7,CC\C=C\CC,549,23,Train
+Isohexene,577 [4],598,21,631,54,576,?1,605,28,CC(C)CC=C,577,4,Train
+"2,3-Dimethyl-1-butene",643 [23],656,13,640,?3,602,?41,624,?19,CC(C)C(C)=C,643,23,Train
+"2,3-Dimethyl-2-butene",674 [23],598,?77,535,?140,497,?177,590,?85,CC(C)=C(C)C,674,23,Train
+"3,3-Dimethyl L-1-butene",630 [22],598,?33,729,99,672,42,660,30,CC(C)(C)C=C,630,22,Train
+2-Methyl-1-pentene,579 [4],598,19,576,?3,564,?15,589,10,CCCC(C)=C,579,4,Train
+3-Methyl-1-pentene,625 [22],598,?28,631,6,576,?49,605,?20,CCC(C)C=C,625,22,Train
+2-Ethyl-1-butene,588 [23],598,9,576,?12,564,?24,589,1,CCC(=C)CC,588,23,Train
+1-Heptene,533 [23],531,?2,532,?1,510,?23,548,15,CCCCCC=C,533,23,Train
+cis-2-Heptene,512 [22],531,19,497,?15,434,?79,534,22,CCCC\C=C/C,512,22,Train
+trans-2-Heptene,517 [22],531,14,497,?20,434,?84,534,17,CCCC/C=C/C,517,22,Train
+cis-3-Heptene,563 [22],531,?32,497,?66,434,?129,534,?29,CCC\C=C/CC,563,22,Train
+trans-3-Heptene,577 [22],531,?46,497,?80,434,?143,534,?43,CCC/C=C/CC,577,22,Train
+2-Methyl-1-hexene,543 [22],589,46,538,?5,535,?8,564,21,CCCCC(C)=C,543,22,Train
+2-Ethyl-1-pentene,600 [22],589,?11,538,?62,535,?65,564,?36,CCCC(=C)CC,600,22,Train
+3-Ethyl-1-pentene,600 [22],589,?11,586,?14,546,?54,578,?22,CCC(CC)C=C,600,22,Train
+"1,7-Octadiene",503 [23],564,61,519,16,472,?31,517,14,C=CCCCCC=C,503,23,Train
+1-Octyne,517 [23],535,18,475,?42,,,493,?24,CCCCCCC#C,517,23,Train
+1-Octene,523 [23],523,0,504,?19,484,?39,527,4,CCCCCCC=C,523,23,Train
+cis-2-Octene,507 [22],523,16,481,?26,418,?89,516,9,CCCCC\C=C/C,507,22,Train
+trans-2-Octene,517 [22],523,6,481,?36,418,?99,516,?1,CCCCC/C=C/C,517,22,Train
+cis-3-Octene,538 [22],523,?15,481,?57,418,?120,516,?22,CCCC\C=C/CC,538,22,Train
+trans-3-Octene,548 [22],523,?25,481,?67,418,?130,516,?32,CCCC/C=C/CC,548,22,Train
+cis-4-Octene,539 [22],523,?16,481,?58,418,?121,516,?23,CCC\C=C/CCC,539,22,Train
+6-Methyl-1-heptene,547 [22],581,34,546,?1,518,?29,554,7,CC(C)CCCC=C,547,22,Train
+2-Ethyl-1-hexene,600 [22],581,?19,508,?92,506,?94,541,?59,CCCCC(=C)CC,600,22,Train
+"2,4,4-Trimethyl-2-pentene",581 [23],581,0,582,1,545,?36,602,21,CC(C)=CC(C)(C)C,581,23,Train
+"2,4,4-Trimethylpentene","693 [22, 23]",639,?54,641,?52,640,?53,621,?72,CC(=C)CC(C)(C)C,693,22,Train
+3-Ethylhex-1-ene,552 [22],581,29,546,?6,518,?34,554,2,CCCC(CC)C=C,552,22,Train
+"2,3-Dimethylhexene",590 [22],581,?9,553,?37,543,?47,570,?20,CCCC(C)C(C)=C,590,22,Train
+4-Methylhept-1-ene,548 [22],581,33,546,?2,518,?30,554,6,CCCC(C)CC=C,548,22,Train
+1-Nonene,"510 [22, 23]",515,4,485,?25,459,?52,511,1,CCCCCCCC=C,510,22,Train
+"Deca-1,9-diene",565 [22],548,?17,479,?86,429,?136,494,?71,C=CCCCCCCC=C,565,22,Train
+Dec-1-yne,497 [22],519,22,479,?18,,,493,?4,CCCCCCCCC#C,497,22,Train
+1-Decene,508 [22],506,?2,475,?33,437,?71,498,?10,CCCCCCCCC=C,508,22,Train
+1-Undecene,510 [23],498,?12,474,?37,420,?90,491,?19,CCCCCCCCCC=C,510,23,Train
+Dodecene,528 [23],515,?13,479,?49,408,?120,490,?38,CCCCCCCCCCC=C,528,23,Train
+1-Tridecene,510 [23],515,5,489,?21,402,?108,495,?15,CCCCCCCCCCCC=C,510,23,Train
+1-Tetradecene,508 [23],515,7,501,?7,403,?105,507,?1,CCCCCCCCCCCCC=C,508,23,Train
+1-Pentadecene,510 [23],515,5,511,1,412,?98,526,16,CCCCCCCCCCCCCC=C,510,23,Train
+1-Hexadecene,513 [23],515,2,514,1,430,?83,554,41,CCCCCCCCCCCCCCC=C,513,23,Train
+1-Heptadecene,510 [23],515,5,505,?5,459,?51,591,81,CCCCCCCCCCCCCCCC=C,510,23,Train
+1-Octadecene,523 [23],515,?8,478,?45,499,?24,637,114,CCCCCCCCCCCCCCCCC=C,523,23,Train
+1-Nonadecene,510 [23],515,5,426,?84,552,41,694,184,CCCCCCCCCCCCCCCCCC=C,510,23,Train
+1-Eicosene,510 [23],515,5,342,?168,618,108,762,251,CCCCCCCCCCCCCCCCCCC=C,510,23,Train
+(2E)Icos-2-ene,499 [22],482,?17,171,?328,943,444,813,314,CCCCCCCCCCCCCCCCC/C=C/C,499,22,Train
+Cyclopentene,"668 [22, 23]",647,?21,668,0,655,?13,703,34,C1CC=CC1,668,22,Train
+Cyclohexene,"583 [22, 23]",639,56,629,46,622,39,673,90,C1CCC=CC1,583,22,Train
+"1-Methyl-1,3-cyclopentadiene",718 [22],681,?37,475,?243,722,4,707,?11,CC1=CC=CC1,718,22,Train
+2-Norbornene,"778 [22, 23]",672,?106,671,?107,627,?151,688,?90,C1CC2CC1C=C2,778,22,Train
+Vinylcyclohexane,543 [22],664,121,657,114,562,19,625,82,C=CC1CCCCC1,543,22,Train
+Benzene,771 [23],722,?49,827,56,762,?10,786,15,c1ccccc1,771,23,Train
+Toluene,693 [23],714,19,767,72,757,62,774,79,Cc1ccccc1,693,23,Train
+Ethylbenzene,"705 [22, 23]",706,3,723,20,737,34,746,43,CCc1ccccc1,705,22,Train
+p-Xylene,802 [22],807,5,789,?13,752,?50,761,?41,Cc1ccc(C)cc1,802,22,Train
+o-Xylene,737 [22],726,?11,756,19,752,15,761,24,Cc1ccccc1C,737,22,Train
+m-Xylene,738 [22],726,?12,798,60,752,14,761,23,Cc1cccc(C)c1,738,22,Train
+Cumene,693 [23],697,4,742,49,743,49,753,60,CC(C)c1ccccc1,693,23,Train
+m-Ethyltoluene,753 [23],718,?35,760,6,732,?22,733,?21,CCc1cccc(C)c1,753,23,Train
+"1,2,3-Trimethylbenzene","743 [22, 23]",718,?25,788,45,748,4,748,5,Cc1cccc(C)c1C,743,22,Train
+"1,2,4-Trimethylbenzene","788 [22, 23]",718,?40,779,20,748,?11,748,?10,Cc1ccc(C)c(C)c1,788,22,Train
+"1,3,5-Trimethylbenzene",833 [23],799,?34,819,?14,748,?86,748,?85,Cc1cc(C)cc(C)c1,833,23,Train
+o-Ethyltoluene,713 [23],718,5,709,?4,732,18,733,19,CCc1ccccc1C,713,23,Train
+p-Ethyltoluene,808 [23],799,?9,748,?60,732,?77,733,?76,CCc1ccc(C)cc1,808,23,Train
+1-Methyl-2-ethylbenzene,713 [23],718,5,709,?4,732,18,733,19,CCc1ccccc1C,713,23,Train
+tert-Butylbenzene,718 [23],689,?29,822,104,783,64,778,60,CC(C)(C)c1ccccc1,718,23,Train
+m-Diethylbenzene,"723 [22, 23]",709,?14,714,?9,708,?15,703,?20,CCc1cccc(CC)c1,723,22,Train
+o-Diethylbenzene,668 [23],709,41,661,?8,708,40,703,35,CCc1ccccc1CC,668,23,Train
+Naphthalene,813 [4],814,1,827,14,801,?12,808,?5,c1ccc2ccccc2c1,813,4,Train
+Butylbenzene,685 [22],689,6,626,?57,689,6,687,3,CCCCc1ccccc1,685,22,Train
+sec-Butylbenzene,688 [23],689,1,695,6,721,32,724,36,CCC(C)c1ccccc1,688,23,Train
+Isobutylbenzene,698 [23],689,?9,695,?4,721,22,724,26,CC(C)Cc1ccccc1,698,23,Train
+"1,2,3,5-Tetramethylbenzene",700 [23],709,9,813,113,743,42,735,35,Cc1cc(C)c(C)c(C)c1,700,23,Train
+o-Cymene,709 [23],709,0,729,20,737,28,740,31,CC(C)c1ccccc1C,709,23,Train
+m-Cymene,709 [23],709,0,777,68,737,28,740,31,CC(C)c1cccc(C)c1,709,23,Train
+p-Cymene,709 [23],709,0,766,57,737,28,740,31,CC(C)c1ccc(C)cc1,709,23,Train
+p-Diethylbenzene,"703 [22, 23]",709,6,701,?2,708,5,703,0,CCc1ccc(CC)cc1,703,22,Train
+"1,2,3,4-Tetramethylbenzene",700 [22],709,9,806,106,743,43,735,35,Cc1ccc(C)c(C)c1C,700,22,Train
+1-Methylnaphthalene,"802 [22, 23]",806,4,793,?9,799,?3,796,?6,Cc1cccc2ccccc12,802,22,Train
+2-Methylnaphthalene,761 [23],806,45,793,32,799,38,796,35,Cc1ccc2ccccc2c1,761,23,Train
+p-tert-Butyltoluene,783 [23],803,19,803,20,779,?4,765,?18,Cc1ccc(cc1)C(C)(C)C,783,23,Train
+"2,3-Dimethyl-1-propylbenzene",738 [22],701,?37,700,?38,702,?36,689,?49,CCCc1cccc(C)c1C,738,22,Train
+Biphenyl,843 [22],839,?4,799,?44,805,?38,833,?10,c1ccc(cc1)c2ccccc2,843,22,Train
+1-Ethylnaphthalene,754 [4],797,43,754,0,788,34,770,16,CCc1cccc2ccccc12,754,4,Train
+Cyclohexylbenzene,813 [22],714,?99,605,?208,633,?180,644,?169,C1CCC(CC1)c2ccccc2,813,22,Train
+"3,5-Dimethyl-tert-butylbenzene",833 [23],794,?39,826,?7,775,?58,752,?81,Cc1cc(C)cc(c1)C(C)(C)C,833,23,Train
+Diisopropylbenzene,721 [23],693,?28,701,?20,721,0,718,?4,CC(C)c1ccccc1C(C)C,721,23,Train
+m-Diisopropylbenzene,722 [23],693,?29,753,30,721,?1,718,?5,CC(C)c1cccc(c1)C(C)C,722,23,Train
+p-(t-Butyl)ethylbenzene,553 [22],551,?2,767,214,763,210,737,184,CCc1ccc(cc1)C(C)(C)C,553,22,Train
+"1,4-Di-tert-butylbenzene",496 [22],535,39,815,319,798,302,769,273,CC(C)(C)c1ccc(cc1)C(C)(C)C,496,22,Train
+"1,2,3,4,5-Pentamethylbenzene",703 [22],701,?2,824,121,737,34,722,19,Cc1cc(C)c(C)c(C)c1C,703,22,Train
+"1,2,3-Trimethyl-4-ethylbenzne",766 [22],701,?65,771,5,720,?46,705,?61,CCC1=C(C(=C(C=C1)C)C)C,766,22,Train
+"1,2,4-Trimethyl-3-ethylbenzene",766 [22],701,?65,771,5,720,?46,705,?61,CCc1c(C)ccc(C)c1C,766,22,Train
+"1,2,4-Trimethyl-5-ethylbenzene",766 [22],701,?65,771,5,720,?46,705,?61,CCc1cc(C)c(C)cc1C,766,22,Train
+"1,2,4-Triethylbenzene",640 [22],632,?8,639,?1,676,36,659,19,CCc1ccc(CC)c(CC)c1,640,22,Train
+"1,2,3-Triethylbenzene",640 [22],632,?8,652,12,676,36,659,19,CCc1cccc(CC)c1CC,640,22,Train
+Diphenylmethane,"758 [22, 23]",750,?8,762,4,797,39,811,53,C(c1ccccc1)c2ccccc2,758,22,Train
+Anthracene,"813 [22, 23]",764,?49,813,0,809,?4,827,14,c1ccc2cc3ccccc3cc2c1,813,22,Train
+"1,1-Diphenylethane","713 [22, 23]",742,28,779,66,799,86,817,104,CC(c1ccccc1)c2ccccc2,713,22,Train
+"1,2-Diphenylethane",753 [22],742,?12,717,?37,785,32,786,33,C(Cc1ccccc1)c2ccccc2,753,22,Train
+2-Ethylnaphthalene,750 [22],716,?34,754,4,788,38,770,20,CCc1ccc2ccccc2c1,750,22,Train
+1-Butylnaphthalene,"633 [22, 23]",619,?14,658,25,757,124,712,79,CCCCc1cccc2ccccc12,633,22,Train
+1-Nonylnaphthalene,576 [22],578,2,485,?91,633,57,569,?7,CCCCCCCCCc1cccc2ccccc12,576,22,Train
+1-Decylnaphthalene,567 [22],569,2,475,?92,604,37,545,?22,CCCCCCCCCCc1cccc2ccccc12,567,22,Train
+Naphthacene,830 [22],856,26,785,?45,784,?46,844,14,c1ccc2cc3cc4ccccc4cc3cc2c1,830,22,Train
+"1,2,3,5-Tetraethylbenzene",598 [22],616,18,643,45,641,43,616,18,CCc1cc(CC)c(CC)c(CC)c1,598,22,Train
+Pentaethylbenzene,566 [22],599,33,622,56,605,39,577,11,CCc1cc(CC)c(CC)c(CC)c1CC,566,22,Train
+Hexaethylbenzene,541 [22],583,42,566,25,568,27,542,1,CCc1c(CC)c(CC)c(CC)c(CC)c1CC,541,22,Train
+p-Terphenyl,808 [22],814,6,828,19,804,?4,866,58,c1ccc(cc1)c2ccc(cc2)c3ccccc3,808,22,Train
+Ethynylbenzene,763 [22],789,26,655,?108,,,648,?115,C#Cc1ccccc1,763,22,Train
+Styrene,753 [23],747,?6,749,?4,727,?26,729,?24,C=Cc1ccccc1,753,23,Train
+2-Vinyltoluene,767 [23],759,?8,736,?31,721,?46,716,?52,Cc1ccccc1C=C,767,23,Train
+3-Vinyltoluene,762 [23],759,?3,782,20,721,?41,716,?47,Cc1cccc(C=C)c1,762,23,Train
+4-Vinyltoluene,848 [23],840,?8,772,?76,721,?127,716,?133,Cc1ccc(C=C)cc1,848,23,Train
+Isopropenylbenzene,718 [23],739,21,711,?7,724,6,720,1,CC(=C)c1ccccc1,718,23,Train
+cis-1-Propenylbenzene,848 [22],739,?109,639,?209,615,?233,679,?169,C\C=C/c1ccccc1,848,22,Train
+trans-1-Propenylbenzene,848 [22],739,?109,639,?209,615,?233,679,?169,C/C=C/c1ccccc1,848,22,Train
+2-Ethyl-1-vinylbenzene,634 [22],650,16,688,54,697,63,685,51,CCc1ccccc1C=C,634,22,Train
+3-Ethyl-1-vinylbenzene,657 [22],650,?7,740,83,697,40,685,28,CCc1cccc(C=C)c1,657,22,Train
+Ethane,788 [23],793,4,729,?59,669,?120,703,?85,CC,788,23,Train
+"2,3-Dimethylbutane",693 [23],718,25,672,?21,627,?66,658,?35,CC(C)C(C)C,693,23,Test
+"2,2-Dimethylpentane",610 [23],612,2,653,43,656,46,647,37,CCCC(C)(C)C,610,23,Test
+"2,2,3-Trimethylpentane",703 [23],701,?2,673,?30,664,?39,655,?49,CCC(C)C(C)(C)C,703,23,Test
+4-Methylheptane,510 [22],503,?7,527,17,530,20,567,57,CCCC(C)CCC,510,22,Test
+"2,6-Dimethylheptane",553 [22],596,43,541,?12,538,?15,574,21,CC(C)CCCC(C)C,553,22,Test
+Hexadecane,475 [23],473,?2,511,36,421,?54,537,62,CCCCCCCCCCCCCCCC,475,23,Test
+Docosane,475 [22],475,0,?84,,754,279,878,403,CCCCCCCCCCCCCCCCCCCCCC,475,22,Test
+Ethylcyclohexane,"535 [22, 23]",540,5,531,?4,494,?41,552,17,CCC1CCCCC1,535,22,Test
+Propylcyclohexane,"521 [22, 23]",532,11,503,?18,469,?52,531,10,CCCC1CCCCC1,521,22,Test
+Cyclododecane,503 [23],432,?72,474,?29,403,?101,490,?14,C1CCCCCCCCCCC1,503,23,Test
+Dicyclopentadiene,783 [22],731,?52,714,?69,647,?136,745,?39,C1C=CC2C3CC(C=C3)C12,783,22,Test
+Dimethylacetylene,596 [22],568,?28,651,55,,,573,?23,CC#CC,596,22,Test
+Non-1-yne,506 [22],527,21,473,?33,,,490,?16,CCCCCCCC#C,506,22,Test
+3-Methyl-1-hexene,578 [22],589,11,586,8,546,?32,578,0,CCCC(C)C=C,578,22,Test
+trans-4-Octene,552 [22],523,?29,481,?71,418,?134,516,?36,CCC\C=C\CCC,552,22,Test
+"(3E)-2-methylpenta-1,3-diene",581 [22],581,0,548,?33,464,?117,558,?23,C/C=C/C(C)=C,581,22,Test
+Triacont-1-ene,524 [22],515,?9,"?4,512",,"2,388","1,864","2,174","1,650",CCCCCCCCCCCCCCCCCCCCCCCCCCCCC=C,524,22,Test
+Cyclododecene,531 [23],590,58,479,?53,436,?95,520,?11,C1CCCCCC=CCCCC1,531,23,Test
+"1,4-Diisopropylbenzene",722 [22],693,?29,741,19,721,?1,718,?4,CC(C)c1ccc(cc1)C(C)C,722,22,Test
+Propylbenzene,729 [22],697,?32,674,?55,714,?15,717,?13,CCCc1ccccc1,729,22,Test
+"1,2,4,5-Tetramethylbenzene",700 [22],709,9,806,106,743,43,735,35,Cc1cc(C)c(C)cc1C,700,22,Test
+1-Propylnaphthalene,690 [22],708,18,707,17,774,84,741,51,CCCc1cccc2ccccc12,690,22,Test
+o-Terphenyl,830 [22],814,11,815,12,804,1,866,63,c1ccc(cc1)c2ccccc2c3ccccc3,830,22,Test
+1-Ethyl-4-vinylbenzene,635 [22],650,15,728,93,697,62,685,50,CCc1ccc(C=C)cc1,635,22,Test
+m-Terphenyl,828 [22],814,?14,828,0,804,?24,866,38,c1ccc(cc1)c2cccc(c2)c3ccccc3,828,22,Test
