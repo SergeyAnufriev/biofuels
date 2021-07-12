@@ -1,0 +1,448 @@
+Species,SMILES,Formula,Unified YSI
+"1,2-diphenylbenzene",c1ccc(-c2ccccc2-c2ccccc2)cc1,C18H14,1338.9
+cyclopenta[def]phenanthrene,c1cc2c3c(c1)ccc1cccc(c13)C2,C15H10,1312.8
+fluoranthene,c1ccc2c(c1)-c1cccc3cccc-2c13,C16H10,1291.9
+"1,3-diphenylbenzene",c1ccc(-c2cccc(-c3ccccc3)c2)cc1,C18H14,1286.6
+pyrene,c1cc2ccc3cccc4ccc(c1)c2c34,C16H10,1250.1
+4-benzyl-biphenyl,c1ccc(Cc2ccc(-c3ccccc3)cc2)cc1,C19H16,1192.6
+9-methylanthracene,Cc1c2ccccc2cc2ccccc12,C15H12,1182.1
+1-phenylnaphthalene,c1ccc(-c2cccc3ccccc23)cc1,C16H12,1103.7
+triphenylmethane,c1ccc(C(c2ccccc2)c2ccccc2)cc1,C19H16,1093.3
+dibenzosuberane,c1ccc2c(c1)CCc1ccccc1C2,C15H14,1067.2
+1-methylfluorene,Cc1cccc2c1Cc1ccccc1-2,C14H12,1014.9
+fluorene,c1ccc2c(c1)Cc1ccccc1-2,C13H10,988.8
+"9,10-dihydroanthracene",c1ccc2c(c1)Cc1ccccc1C2,C14H12,988.8
+"2,2’-dimethylbiphenyl",Cc1ccccc1-c1ccccc1C,C14H14,983.5
+anthracene,c1ccc2cc3ccccc3cc2c1,C14H10,962.6
+"9,10-dihydrophenanthrene",c1ccc2c(c1)CCc1ccccc1-2,C14H12,952.2
+phenanthrene,c1ccc2c(c1)ccc1ccccc12,C14H10,941.7
+"3,3’-dimethylbiphenyl",Cc1cccc(-c2cccc(C)c2)c1,C14H14,931.3
+2-phenylindene,C1=C(c2ccccc2)Cc2ccccc21,C15H12,931.3
+"4,4’-dimethylbiphenyl",Cc1ccc(-c2ccc(C)cc2)cc1,C14H14,899.9
+2-methylbiphenyl,Cc1ccccc1-c1ccccc1,C13H12,863.3
+4-pentylbiphenyl,CCCCCc1ccc(-c2ccccc2)cc1,C17H20,863.3
+4-butylbiphenyl,CCCCc1ccc(-c2ccccc2)cc1,C16H18,847.7
+4-propylbiphenyl,CCCc1ccc(-c2ccccc2)cc1,C15H16,821.5
+4-ethylbiphenyl,CCc1ccc(-c2ccccc2)cc1,C14H14,811.1
+acenaphthene,c1cc2c3c(cccc3c1)CC2,C12H10,805.8
+"1,1-diphenylpropane",CCC(c1ccccc1)c1ccccc1,C15H16,805.8
+"1,5-dimethylnaphthalene",Cc1cccc2c(C)cccc12,C12H12,779.7
+3-methylbiphenyl,Cc1cccc(-c2ccccc2)c1,C13H12,779.7
+"2,6-dimethylnaphthalene",Cc1ccc2cc(C)ccc2c1,C12H12,774.5
+4-methylbiphenyl,Cc1ccc(-c2ccccc2)cc1,C13H12,769.3
+"trans 1,2-diphenylpropene",C/C(=C\c1ccccc1)c1ccccc1,C15H14,753.6
+"2,3-dimethylnaphthalene",Cc1cc2ccccc2cc1C,C12H12,748.4
+"1,2-dimethylnaphthalene",Cc1ccc2ccccc2c1C,C12H12,743.1
+"1,3-dimethylnaphthalene",Cc1cc(C)c2ccccc2c1,C12H12,743.1
+"1,1-diphenylethylene",C=C(c1ccccc1)c1ccccc1,C14H12,743.1
+1-ethylnaphthalene,CCc1cccc2ccccc12,C12H12,732.7
+"2,2-diphenylpropane",CC(C)(c1ccccc1)c1ccccc1,C15H16,727.5
+"1,4-dimethylnaphthalene",Cc1ccc(C)c2ccccc12,C12H12,711.8
+2-ethylnaphthalene,CCc1ccc2ccccc2c1,C12H12,701.3
+1-methylnaphthalene,Cc1cccc2ccccc12,C11H10,649.1
+2-methylnaphthalene,Cc1ccc2ccccc2c1,C11H10,649.1
+diphenylacetylene,C(#Cc1ccccc1)c1ccccc1,C14H10,638.6
+biphenyl,c1ccc(-c2ccccc2)cc1,C12H10,612.5
+diphenylmethane,c1ccc(Cc2ccccc2)cc1,C13H12,612.5
+"1,5-dimethyltetralin",Cc1cccc2c1CCCC2C,C12H16,607.3
+"cis 1,2-diphenylethylene",C(=C\c1ccccc1)\c1ccccc1,C14H12,602
+"trans 1,2-diphenylethylene",C(=C/c1ccccc1)\c1ccccc1,C14H12,602
+hexamethylbenzene,Cc1c(C)c(C)c(C)c(C)c1C,C12H18,565.4
+"4,4’-dimethylbibenzyl",Cc1ccc(CCc2ccc(C)cc2)cc1,C16H18,549.8
+"2-ethynyl-1,4-dimethylbenzene",C#Cc1cc(C)ccc1C,C10H10,512.7
+2-methylindene,CC1=Cc2ccccc2C1,C10H10,500.1
+azulene,c1ccc2cccc-2cc1,C10H8,492.3
+1-ethynyl-2-methylbenzene,C#Cc1ccccc1C,C9H8,485
+pentamethylbenzene,Cc1cc(C)c(C)c(C)c1C,C11H16,481.8
+(1-butynyl)-benzene,CCC#Cc1ccccc1,C10H10,480.8
+bibenzyl,c1ccc(CCc2ccccc2)cc1,C14H14,471.4
+"1-ethenyl-2,5-dimethylbenzene",C=Cc1cc(C)ccc1C,C10H12,469.3
+1-phenyl-1-cyclohexene,C1=C(c2ccccc2)CCCC1,C12H14,468
+indene,C1=Cc2ccccc2C1,C9H8,467.7
+"1,2-dihydronaphthalene",C1=Cc2ccccc2CC1,C10H10,466.1
+naphthalene,c1ccc2ccccc2c1,C10H8,466.1
+1-cyclohexen-1-ylbenzene,C1=C(c2ccccc2)CCCC1,C12H14,445.2
+(2-propynyl)-benzene,C#CCc1ccccc1,C9H8,443.7
+1-ethynyl-4-ethylbenzene,C#Cc1ccc(CC)cc1,C10H10,442.6
+indane,c1ccc2c(c1)CCC2,C9H10,439.5
+(2-methyl-1-propenyl)-benzene,CC(C)=Cc1ccccc1,C10H12,436.9
+(1-propynyl)-benzene,CC#Cc1ccccc1,C9H8,427.5
+"1,3-diphenylpropane",c1ccc(CCCc2ccccc2)cc1,C15H16,413.9
+1-methyl-4-tert-butylbenzene,Cc1ccc(C(C)(C)C)cc1,C11H16,410.8
+1-ethenyl-2-methylbenzene,C=Cc1ccccc1C,C9H10,408.1
+"1,2,3,4-tetramethylbenzene",Cc1ccc(C)c(C)c1C,C10H14,393
+"1,2,4,5-tetramethylbenzene",Cc1cc(C)c(C)cc1C,C10H14,393
+"1,2,3,5-tetramethylbenzene",Cc1cc(C)c(C)c(C)c1,C10H14,386.2
+1-ethynyl-3-methylbenzene,C#Cc1cccc(C)c1,C9H8,384.6
+cyclohexylbenzene,c1ccc(C2CCCCC2)cc1,C12H16,377.3
+"1,2-diethylbenzene",CCc1ccccc1CC,C10H14,376.3
+1-ethynyl-4-methylbenzene,C#Cc1ccc(C)cc1,C9H8,374.7
+"1,3-diisopropylbenzene",CC(C)c1cccc(C(C)C)c1,C12H18,353.3
+(1-propenyl)-benzene,C/C=C/c1ccccc1,C9H10,352.2
+cyclopropylbenzene,c1ccc(C2CC2)cc1,C9H10,343.9
+tetralin,c1ccc2c(c1)CCCC2,C10H12,336
+1-isopropyl-4-methylbenzene,Cc1ccc(C(C)C)cc1,C10H14,330.3
+n-tetradecylbenzene,CCCCCCCCCCCCCCc1ccccc1,C20H34,330.3
+1-ethenyl-3-methylbenzene,C=Cc1cccc(C)c1,C9H10,322.4
+"1,3-diethylbenzene",CCc1cccc(CC)c1,C10H14,320.9
+diphenylformaldehyde,O=C(c1ccccc1)c1ccccc1,C13H10O,319.8
+n-tridecylbenzene,CCCCCCCCCCCCCc1ccccc1,C19H32,319.8
+1-ethenyl-4-methylbenzene,C=Cc1ccc(C)cc1,C9H10,318.8
+"1,2,3-trimethylbenzene",Cc1cccc(C)c1C,C9H12,315.1
+(2-propenyl)-benzene,C=CCc1ccccc1,C9H10,310.9
+"1,3,5-trimethylbenzene",Cc1cc(C)cc(C)c1,C9H12,310.9
+"1,2,4-trimethylbenzene",Cc1ccc(C)c(C)c1,C9H12,308.3
+n-dodecylbenzene,CCCCCCCCCCCCc1ccccc1,C18H30,304.1
+(3-butynyl)-benzene,C#CCCc1ccccc1,C10H10,298.9
+n-undecylbenzene,CCCCCCCCCCCc1ccccc1,C17H28,293.7
+"(1,1-dimethylethyl)-benzene",CC(C)(C)c1ccccc1,C10H14,291.1
+(1-methylethenyl)-benzene,C=C(C)c1ccccc1,C9H10,286.4
+n-nonylbenzene,CCCCCCCCCc1ccccc1,C15H24,283.2
+n-decylbenzene,CCCCCCCCCCc1ccccc1,C16H26,283.2
+1-ethyl-3-methylbenzene,CCc1cccc(C)c1,C9H12,278
+(3-butenyl)-benzene,C=CCCc1ccccc1,C10H12,275.9
+"(2,2-dimethylpropyl)-benzene",CC(C)(C)Cc1ccccc1,C11H16,272.8
+"1,4-diethylbenzene",CCc1ccc(CC)cc1,C10H14,270.7
+1-ethyl-2-methylbenzene,CCc1ccccc1C,C9H12,267
+(3-methylbutyl)-benzene,CC(C)CCc1ccccc1,C11H16,258.1
+(2-methylpropyl)-benzene,CC(C)Cc1ccccc1,C10H14,257.6
+n-heptylbenzene,CCCCCCCc1ccccc1,C13H20,257.1
+n-octylbenzene,CCCCCCCCc1ccccc1,C14H22,257.1
+1-ethyl-4-methylbenzene,CCc1ccc(C)cc1,C9H12,257.1
+n-pentylbenzene,CCCCCc1ccccc1,C11H16,255
+n-hexylbenzene,CCCCCCc1ccccc1,C12H18,246.7
+n-butylbenzene,CCCCc1ccccc1,C10H14,245.1
+diphenyl ether,c1ccc(Oc2ccccc2)cc1,C12H10O,241.4
+propylbenzene,CCCc1ccccc1,C9H12,235.7
+ethylbenzene,CCc1ccccc1,C8H10,223.7
+"1,3-dimethylbenzene",Cc1cccc(C)c1,C8H10,221.6
+phenylacetylene,C#Cc1ccccc1,C8H6,216.3
+"1,4-dimethylbenzene",Cc1ccc(C)cc1,C8H10,211.1
+"1,2-dimethylbenzene",Cc1ccccc1C,C8H10,204.8
+(1-methylpropyl)-benzene,CCC(C)c1ccccc1,C10H14,199.1
+methylcyclopentadiene dimer,CC1=CC2C3CC(C=C3C)C2C1,C12H16,189.2
+isopropylbenzene,CC(C)c1ccccc1,C9H12,187.6
+"1-methyl-1,4-cyclohexadiene",CC1=CCC=CC1,C7H10,175.6
+styrene,C=Cc1ccccc1,C8H8,174
+toluene,Cc1ccccc1,C7H8,170.9
+1-tert-butyl-1-cyclohexene,CC(C)(C)C1=CCCCC1,C10H18,161
+dicyclopentadiene,C1=CC2C3C=CC(C3)C2C1,C10H12,157.8
+bromobenzene,Brc1ccccc1,C6H5Br,137.4
+chlorobenzene,Clc1ccccc1,C6H5Cl,128
+cyanobenzene,N#Cc1ccccc1,C7H5N,115
+ethoxybenzene,CCOc1ccccc1,C8H10O,112.3
+methoxybenzene,COc1ccccc1,C7H8O,107.1
+fluorobenzene,Fc1ccccc1,C6H5F,106.6
+cis + trans decahydronaphthalene,C1CCC2CCCCC2C1,C10H18,105.5
+"1,4-cyclohexadiene",C1=CCC=CC1,C6H8,101.4
+bicyclohexyl,C1CCC(C2CCCCC2)CC1,C12H22,100.3
+benzene,c1ccccc1,C6H6,100.3
+"2,2,4,6,6-pentamethylheptane",CC(CC(C)(C)C)CC(C)(C)C,C12H26,99.3
+"1,3-cyclohexadiene",C1=CCCC=C1,C6H8,98.8
+1-methyl-1-cyclopentene,CC1=CCCC1,C6H10,97.7
+1-methylcyclopentene,CC1=CCCC1,C6H10,96.5
+1-dodecene,C=CCCCCCCCCCC,C12H24,90.3
+"2,4,4-trimethyl-2-pentene",CC(C)=CC(C)(C)C,C8H16,89.3
+"2,3,4-trimethyl-2-pentene",CC(C)=C(C)C(C)C,C8H16,87
+3-methyl-1-cyclohexene,CC1C=CCCC1,C7H12,85
+"1,2,4-trimethylcyclohexane",CC1CCC(C)C(C)C1,C9H18,82.8
+cyclopentene,C1=CCCC1,C5H8,80.5
+cycloheptene,C1=CCCCCC1,C7H12,79
+cyclooctene,C1=C\CCCCCC/1,C8H14,78
+butylcyclohexane,CCCCC1CCCCC1,C10H20,76.8
+cycloheptene,C1=CCCCCC1,C7H12,76.5
+1-decene,C=CCCCCCCCC,C10H20,74.8
+isopropylcyclohexane,CC(C)C1CCCCC1,C9H18,74.7
+1-octyne,C#CCCCCCC,C8H14,74.1
+"2,3,3-trimethyl-1-butene",C=C(C)C(C)(C)C,C7H14,72.8
+n-dodecane,CCCCCCCCCCCC,C12H26,71.7
+cyclopentene,C1=CCCC1,C5H8,70.2
+propylcyclohexane,CCCC1CCCCC1,C9H18,69.2
+"2,4,4-trimethyl-1-pentene",C=C(C)CC(C)(C)C,C8H16,68.5
+"1,1-dimethylcyclohexane",CC1(C)CCCCC1,C8H16,67.9
+"2-methyl-1,5-hexadiene",C=CCCC(=C)C,C7H12,67.7
+"1,3-dimethylcyclohexane",CC1CCCC(C)C1,C8H16,67.6
+"1,4-dimethylcyclohexane",CC1CCC(C)CC1,C8H16,67.6
+"2,2,4,4-tetramethyl-3-pentanone",CC(C)(C)C(=O)C(C)(C)C,C9H18O,65.8
+"cis 1,2-dimethylcyclohexane",C[C@H]1CCCC[C@H]1C,C8H16,65.2
+n-undecane,CCCCCCCCCCC,C11H24,64.7
+2-methyl-2-heptene,CCCCC=C(C)C,C8H16,64.5
+1-nonene,C=CCCCCCCC,C9H18,64.4
+isoamyl ether,CC(C)CCOCCC(C)C,C10H22O,63.6
+"2,3-dimethyl-2-butene",CC(C)=C(C)C,C6H12,62.4
+methyl cyclopentyl ether,COC1CCCC1,C6H12O,62.3
+"3,5,5-trimethylhexanal",CC(CC=O)CC(C)(C)C,C9H18O,62.3
+cyclohexene,C1=CCCCC1,C6H10,62.2
+"2,2,4-trimethylpentane",CC(C)CC(C)(C)C,C8H18,61.7
+1-methyl-1-cyclohexene,CC1=CCCCC1,C7H12,62
+"4,4-dimethyl-1-pentene",C=CCC(C)(C)C,C7H14,61.4
+4-methyl-1-cyclohexene,CC1CC=CCC1,C7H12,61
+"2,3,4-trimethylpentane",CC(C)C(C)C(C)C,C8H18,60.9
+ethylcyclohexane,CCC1CCCCC1,C8H16,60.7
+"2,3-dimethylheptane",CCCCC(C)C(C)C,C9H20,60.2
+3-ethyl-2-pentene,CC=C(CC)CC,C7H14,59.8
+trans 4-octene,CCC/C=C/CCC,C8H16,59.8
+"2,4,4-trimethyl-1-pentanol",CC(CO)CC(C)(C)C,C8H18O,59
+trans 3-octene,CC/C=C/CCCC,C8H16,58.8
+ethylcyclopentane,CCC1CCCC1,C7H14,58.6
+cyclooctane,C1CCCCCCC1,C8H16,57.7
+n-decane,CCCCCCCCCC,C10H22,57.2
+trans 2-octene,C/C=C/CCCCC,C8H16,56.7
+2-methyl-1-heptene,C=C(C)CCCCC,C8H16,56.6
+"2,4-dimethylhexane",CCC(C)CC(C)C,C8H18,56.1
+"2,5-dimethylhexane",CC(C)CCC(C)C,C8H18,56.1
+1-octene,C=CCCCCCC,C8H16,56
+4-methyl-1-hexene,C=CCC(C)CC,C7H14,55.8
+"2,6-dimethyl-4-heptanone",CC(C)CC(=O)CC(C)C,C9H18O,55.8
+"2,2,3-trimethylbutane",CC(C)C(C)(C)C,C7H16,55.3
+"3,4-dimethylhexane",CCC(C)C(C)CC,C8H18,55.2
+"2,5-dimethylfuran",Cc1ccc(C)o1,C6H8O,55
+2-pentyne,CC#CCC,C5H8,54.7
+cis 4-methyl-2-pentene,C/C=C\C(C)C,C6H12,54.1
+sec-butyl ether,CCC(C)OC(C)CC,C8H18O,54
+3-methyl-2-pentene,C/C=C(\C)CC,C6H12,53.7
+2-methyl-2-pentene,CCC=C(C)C,C6H12,53.6
+methylcyclohexane,CC1CCCCC1,C7H14,53.6
+trans 3-heptene,CC/C=C/CCC,C7H14,53.5
+"2,3-dimethyl-1-butene",C=C(C)C(C)C,C6H12,53.4
+"3,3-dimethyl-1-butene",C=CC(C)(C)C,C6H12,53.1
+decanal,CCCCCCCCCC=O,C10H20O,52.8
+"2,2-dimethylhexane",CCCCC(C)(C)C,C8H18,52.8
+2-decanone,CCCCCCCCC(C)=O,C10H20O,51.9
+cis 2-heptene,C/C=C\CCCC,C7H14,50.8
+2-propyl-1-pentanol,CCCC(CO)CCC,C8H18O,50.5
+2-ethyl-1-hexanol,CCCCC(CC)CO,C8H18O,50.4
+methylcyclopentane,CC1CCCC1,C6H12,50.3
+3-decanone,CCCCCCCC(=O)CC,C10H20O,50.2
+4-methyl-1-pentene,C=CCC(C)C,C6H12,50.2
+n-nonane,CCCCCCCCC,C9H20,50.1
+cycloheptane,C1CCCCCC1,C7H14,50
+"2,4-dimethylpentane",CC(C)CC(C)C,C7H16,49.6
+"2,3-dimethylpentane",CCC(C)C(C)C,C7H16,49.4
+2-methylheptane,CCCCCC(C)C,C8H18,49.4
+2-methyl-1-hexene,C=C(C)CCCC,C7H14,49.1
+3-methylheptane,CCCCC(C)CC,C8H18,48.7
+1-heptene,C=CCCCCC,C7H14,48.4
+2-butylhexanal,CCCCC(C=O)CCCC,C10H20O,48.2
+4-methylheptane,CCCC(C)CCC,C8H18,48.1
+"3,3-dimethylpentane",CCC(C)(C)CC,C7H16,47.7
+"2,2-dimethylpentane",CCCC(C)(C)C,C7H16,47.4
+1-pentyne,C#CCCC,C5H8,47.3
+trans 3-hexene,CC/C=C/CC,C6H12,47.2
+2-octanol,CCCCCCC(C)O,C8H18O,46.1
+"2,2-dimethyl-3-pentanol",CCC(O)C(C)(C)C,C7H16O,46
+trans 2-hexene,C/C=C/CCC,C6H12,45.8
+cyclohexene,C1=CCCCC1,C6H10,45.6
+2-ethyl-1-butene,C=C(CC)CC,C6H12,45.6
+methyl-3-hexenoate,CC/C=C/CC(=O)OC,C7H12O2,45.3
+3-methyl-1-pentene,C=CC(C)CC,C6H12,45.1
+2-nonanone,CCCCCCCC(C)=O,C9H18O,45.1
+cis 2-hexene,C/C=C\CCC,C6H12,44.7
+5-methyl-2-hexanol,CC(C)CCC(C)O,C7H16O,44.7
+"2,3-dimethylbutane",CC(C)C(C)C,C6H14,44
+1-tert-butoxy-2-propanol,CC(O)COC(C)(C)C,C7H16O2,44
+4-octanol,CCCCC(O)CCC,C8H18O,43.8
+nonanal,CCCCCCCCC=O,C9H18O,43.7
+isopentyl acetate,CC(=O)OCCC(C)C,C7H14O2,43.6
+3-octanol,CCCCCC(O)CC,C8H18O,43.6
+2-methyl-2-butene,CC=C(C)C,C5H10,43.5
+5-methyl-3-heptanone,CCC(=O)CC(C)CC,C8H16O,43.5
+"2,2-dimethylbutane",CCC(C)(C)C,C6H14,43.4
+butyl propionate,CCCCOC(=O)CC,C7H14O2,43.3
+3-methylhexane,CCCC(C)CC,C7H16,43
+3-nonanone,CCCCCCC(=O)CC,C9H18O,43
+2-methyl-1-pentene,C=C(C)CCC,C6H12,42.9
+cyclohexane,C1CCCCC1,C6H12,42.7
+"4,4-dimethyl-2-pentanone",CC(=O)CC(C)(C)C,C7H14O,42.7
+"2,4-dimethyl-3-pentanone",CC(C)C(=O)C(C)C,C7H14O,42.6
+n-octane,CCCCCCCC,C8H18,42.6
+1-hexene,C=CCCCC,C6H12,42.4
+2-methylhexane,CCCCC(C)C,C7H16,42.4
+cyclohexanol,OC1CCCCC1,C6H12O,42.3
+4-methyl-2-pentanol,CC(C)CC(C)O,C6H14O,42
+methyl-2-methyl-2-pentenoate,CCC=C(C)C(=O)OC,C7H12O2,42
+"2,4-dimethyl-3-pentanol",CC(C)C(O)C(C)C,C7H16O,41.9
+2-methyl-2-hexanol,CCCCC(C)(C)O,C7H16O,41.8
+5-nonanone,CCCCC(=O)CCCC,C9H18O,41.8
+2-ethyl-1-butanol,CCC(CC)CO,C6H14O,41.7
+ethyl-4-pentenoate,C=CCCC(=O)OCC,C7H12O2,41.2
+isobutyl propionate,CCC(=O)OCC(C)C,C7H14O2,41.1
+1-octanol,CCCCCCCCO,C8H18O,41.1
+"3,3-dimethyl-1-butanol",CC(C)(C)CCO,C6H14O,40.9
+"3,3-dimethyl-2-butanone",CC(=O)C(C)(C)C,C6H12O,40.6
+"2,3-dimethyl-2-butanol",CC(C)C(C)(C)O,C6H14O,40.6
+tert-butyl propionate,CCC(=O)OC(C)(C)C,C7H14O2,40.5
+3-ethyl-3-pentanol,CCC(O)(CC)CC,C7H16O,40.5
+"3,3-dimethyl-2-butanol",CC(O)C(C)(C)C,C6H14O,40.4
+pentyl acetate,CCCCCOC(C)=O,C7H14O2,40.4
+cis 2-pentene,C/C=C\CC,C5H10,39.8
+ethyl-3-methyl-2-butenoate,CCOC(=O)C=C(C)C,C7H12O2,39.5
+cyclopentane,C1CCCC1,C5H10,39.4
+2-heptanol,CCCCCC(C)O,C7H16O,39.4
+methyl-5-hexenoate,C=CCCCC(=O)OC,C7H12O2,39.2
+methyl octanoate,CCCCCCCC(=O)OC,C9H18O2,38.9
+methyl-3-pentenoate,C/C=C/CC(=O)OC,C6H10O2,38.8
+diisopropyl ether,CC(C)OC(C)C,C6H14O,38.7
+dibutyl ether,CCCCOCCCC,C8H18O,38.7
+3-heptanol,CCCCC(O)CC,C7H16O,38.5
+4-heptanol,CCCC(O)CCC,C7H16O,38.5
+"3,3-dimethylbutanal",CC(C)(C)CC=O,C6H12O,38.4
+isopentyl formate,CC(C)CCOC=O,C6H12O2,38.2
+3-methylpentane,CCC(C)CC,C6H14,38.2
+methyl tert-amyl ether,CCC(C)(C)OC,C6H14O,38.1
+methyl-2-methyl-2-butenoate,C/C=C(/C)C(=O)OC,C6H10O2,38
+tert-butyl ethyl ether,CCOC(C)(C)C,C6H14O,37.9
+2-octanone,CCCCCCC(C)=O,C8H16O,37.9
+3-methyl-2-pentanol,CCC(C)C(C)O,C6H14O,37.7
+octanal,CCCCCCCC=O,C8H16O,37.5
+propyl butyrate,CCCOC(=O)CCC,C7H14O2,37.3
+propyl-2-methyl-2-propenoate,C=C(C)C(=O)OCCC,C7H12O2,37.1
+2-methylpentane,CCCC(C)C,C6H14,36.7
+ethyl isopentanoate,CCOC(=O)CC(C)C,C7H14O2,36.6
+2-ethylhexanal,CCCCC(C=O)CC,C8H16O,36.6
+methyl-3-methyl-2-butenoate,COC(=O)C=C(C)C,C6H10O2,36.4
+2-methyl-2-pentanol,CCCC(C)(C)O,C6H14O,36.4
+3-methyl-1-pentanol,CCC(C)CCO,C6H14O,36.3
+isopropyl butyrate,CCCC(=O)OC(C)C,C7H14O2,36.3
+butyl acetate,CCCCOC(C)=O,C6H12O2,36
+n-heptane,CCCCCCC,C7H16,36
+3-octanone,CCCCCC(=O)CC,C8H16O,36
+methyl-2-hexenoate,CCC/C=C/C(=O)OC,C7H12O2,35.9
+2-methyl-3-hexanone,CCCC(=O)C(C)C,C7H14O,35.9
+2-methyl-1-pentanol,CCCC(C)CO,C6H14O,35.8
+pentyl formate,CCCCCOC=O,C6H12O2,35.7
+4-methyl-1-pentanol,CC(C)CCCO,C6H14O,35.6
+sec-butyl acetate,CCC(C)OC(C)=O,C6H12O2,34.9
+isobutyl acetate,CC(=O)OCC(C)C,C6H12O2,34.8
+1-heptanol,CCCCCCCO,C7H16O,34.7
+dipropyl carbonate,CCCOC(=O)OCCC,C7H14O3,34.5
+cyclohexanone,O=C1CCCCC1,C6H10O,34.3
+2-hexanol,CCCCC(C)O,C6H14O,34.1
+ethyl-2-methyl-2-butenoate,C/C=C(\C)C(=O)OCC,C7H12O2,34
+3-hexanol,CCCC(O)CC,C6H14O,33.9
+heptanal,CCCCCCC=O,C7H14O,33.8
+methyl-2-pentenoate,CC/C=C/C(=O)OC,C6H10O2,33.6
+3-methyl-2-butanol,CC(C)C(C)O,C5H12O,33.3
+methyl-4-pentenoate,C=CCCC(=O)OC,C6H10O2,33.3
+3-methoxy-3-methyl-1-butanol,COC(C)(C)CCO,C6H14O2,33.2
+2-methyl-2-butanol,CCC(C)(C)O,C5H12O,32.9
+4-methyl-2-pentanone,CC(=O)CC(C)C,C6H12O,32.8
+tert-butyl acetate,CC(=O)OC(C)(C)C,C6H12O2,32.7
+methyl heptanoate,CCCCCCC(=O)OC,C8H16O2,32.5
+2-heptanone,CCCCCC(C)=O,C7H14O,32.4
+2-methyl-1-butanol,CCC(C)CO,C5H12O,32.3
+3-methyl-1-butanol,CC(C)CCO,C5H12O,31.9
+propyl propionate,CCCOC(=O)CC,C6H12O2,31.9
+1-butoxy-2-propanol,CCCCOCC(C)O,C7H16O2,31.7
+methyl tert-butyl ether,COC(C)(C)C,C5H12O,31.5
+butyl formate,CCCCOC=O,C5H10O2,31
+methyl trimethylacetate,COC(=O)C(C)(C)C,C6H12O2,30.8
+2-methyl-3-pentanone,CCC(=O)C(C)C,C6H12O,30.7
+3-heptanone,CCCCC(=O)CC,C7H14O,30.7
+"2,2-dimethylpropanal",CC(C)(C)C=O,C5H10O,30.6
+isobutyl formate,CC(C)COC=O,C5H10O2,30.4
+n-hexane,CCCCCC,C6H14,30.4
+2-heptanone,CCCCCC(C)=O,C7H14O,30.4
+ethyl-2-butenoate,C/C=C/C(=O)OCC,C6H10O2,30.3
+2-pentanol,CCCC(C)O,C5H12O,30.2
+tert-butyl formate,CC(C)(C)OC=O,C5H10O2,30
+propyl-2-propenoate,C=CC(=O)OCCC,C6H10O2,30
+"2,2-dimethylbutyric acid",CCC(C)(C)C(=O)O,C6H12O2,30
+1-hexanol,CCCCCCO,C6H14O,30
+ethyl 2-methylbutyrate,CCOC(=O)C(C)CC,C7H14O2,29.3
+3-pentanol,CCC(O)CC,C5H12O,29.1
+methyl-2-methyl-2-propenoate,C=C(C)C(=O)OC,C5H8O2,29
+2-ethylbutanal,CCC(C=O)CC,C6H12O,29
+3-methyl-2-pentanone,CCC(C)C(C)=O,C6H12O,29
+methyl sec-butyl ether,CCC(C)OC,C5H12O,28.6
+4-heptanone,CCCC(=O)CCC,C7H14O,28.5
+methyl isopentanoate,COC(=O)CC(C)C,C6H12O2,28.4
+ethyl pentanoate,CCCCC(=O)OCC,C7H14O2,28.4
+dipropyl ether,CCCOCCC,C6H14O,28
+3-methylbutanal,CC(C)CC=O,C5H10O,27.9
+2-methylpentanal,CCCC(C)C=O,C6H12O,27.6
+tert-butanol,CC(C)(C)O,C4H10O,27.5
+methyl-2-butenoate,C/C=C/C(=O)OC,C5H8O2,27.3
+"1,1-diethoxypropane",CCOC(CC)OCC,C7H16O2,27.3
+hexanal,CCCCCC=O,C6H12O,26.7
+methyl hexanoate,CCCCCC(=O)OC,C7H14O2,26.7
+3-methyl-2-butanone,CC(=O)C(C)C,C5H10O,26.6
+tetrahydropyran,C1CCOCC1,C5H10O,26.5
+2-methyl-1-propanol,CC(C)CO,C4H10O,26.2
+ethyl isobutyrate,CCOC(=O)C(C)C,C6H12O2,26.1
+2-ethylbutyric acid,CCC(CC)C(=O)O,C6H12O2,25.9
+1-propoxy-2-propanol,CCCOCC(C)O,C6H14O2,25.8
+2-hexanone,CCCCC(C)=O,C6H12O,25.6
+2-isopropoxyethanol,CC(C)OCCO,C5H12O2,25.5
+3-hexanone,CCCC(=O)CC,C6H12O,25.5
+ethyl butyrate,CCCC(=O)OCC,C6H12O2,25.5
+1-pentanol,CCCCCO,C5H12O,25.4
+ethyl-2-methyl-2-propenoate,C=C(C)C(=O)OCC,C6H10O2,25.4
+(S)-2-butanol,CC[C@H](C)O,C4H10O,25.3
+2-butoxyethanol,CCCCOCCO,C6H14O2,25.3
+2-methyl-3-buten-2-ol,C=CC(C)(C)O,C5H10O,25
+(R)-2-butanol,CC[C@@H](C)O,C4H10O,25.2
+methyl 2-methylbutyrate,CCC(C)C(=O)OC,C6H12O2,24.9
+2-butanol,CCC(C)O,C4H10O,24.8
+n-pentane,CCCCC,C5H12,24.6
+propyl acetate,CCCOC(C)=O,C5H10O2,24.4
+isopropyl acetate,CC(=O)OC(C)C,C5H10O2,23.7
+methyl butyl ether,CCCCOC,C5H12O,23
+2-methylbutanal,CCC(C)C=O,C5H10O,22.7
+"1,1-diethoxyethane",CCOC(C)OCC,C6H14O2,22.4
+methyl pentanoate,CCCCC(=O)OC,C6H12O2,22.3
+methyl isobutyrate,COC(=O)C(C)C,C5H10O2,22.2
+2-methoxytetrahydropyran,COC1CCCCO1,C6H12O2,22.1
+1-butanol,CCCCO,C4H10O,22
+ethyl-2-propenoate,C=CC(=O)OCC,C5H8O2,22
+cyclopentanone,O=C1CCCC1,C5H8O,22
+isobutanal,CC(C)C=O,C4H8O,21.2
+2-pentanone,CCCC(C)=O,C5H10O,21.1
+3-pentanone,CCC(=O)CC,C5H10O,21.1
+pentanal,CCCCC=O,C5H10O,21.1
+"1,2-diethoxyethane",CCOCCOCC,C6H14O2,20.4
+tetrahydrofuran,C1CCOC1,C4H8O,20.3
+isopropyl formate,CC(C)OC=O,C4H8O2,20.3
+propyl formate,CCCOC=O,C4H8O2,20.3
+ethyl propionate,CCOC(=O)CC,C5H10O2,20.3
+1-methoxy-2-butanol,CCC(O)COC,C5H12O2,19.8
+methyl-2-propenoate,C=CC(=O)OC,C4H6O2,19.4
+2-propanol,CC(C)O,C3H8O,19.2
+"1,2-epoxybutane",CCC1CO1,C4H8O,18.8
+isobutyric acid,CC(C)C(=O)O,C4H8O2,18.8
+methyl butyrate,CCCC(=O)OC,C5H10O2,18.6
+"1,2-dimethoxypropane",COCC(C)OC,C5H12O2,18.6
+diethoxymethane,CCOCOCC,C5H12O2,18.5
+butyric acid,CCCC(=O)O,C4H8O2,18.1
+methyl propyl ether,CCCOC,C4H10O,18
+3-methoxy-1-propanol,COCCCO,C4H10O2,17.9
+butanal,CCCC=O,C4H8O,17.6
+2-butanone,CCC(C)=O,C4H8O,17.2
+diethyl ether,CCOCC,C4H10O,16.8
+1-methoxy-2-propanol,COCC(C)O,C4H10O2,16.4
+"2,2-dimethoxypropane",COC(C)(C)OC,C5H12O2,16.4
+1-propanol,CCCO,C3H8O,16.2
+diglyme,COCCOCCOC,C6H14O3,16.1
+2-ethoxyethanol,CCOCCO,C4H10O2,15.7
+diethyl carbonate,CCOC(=O)OCC,C5H10O3,15.3
+methyl propionate,CCC(=O)OC,C4H8O2,15
+2-(2-methoxyethoxy)-ethanol,COCCOCCO,C5H12O3,15
+"1,1-dimethoxy-2-propanone",COC(OC)C(C)=O,C5H10O3,14.8
+tetramethoxymethane,COC(OC)(OC)OC,C5H12O4,14.8
+"1,1-dimethoxyethane",COC(C)OC,C4H10O2,14.2
+propanal (propionaldehyde),CCC=O,C3H6O,13.9
+"1,2-propanediol",CC(O)CO,C3H8O2,13.7
+ethyl acetate,CCOC(C)=O,C4H8O2,13.4
+2-propanone (acetone),CC(C)=O,C3H6O,13
+trimethoxymethane,COC(OC)OC,C4H10O3,12.8
+"1,1,1-trimethoxyethane",COC(C)(OC)OC,C5H12O3,12.7
+"1,2-dimethoxyethane",COCCOC,C4H10O2,11.8
+methyl acetate,COC(C)=O,C3H6O2,11.7
+dimethoxymethane,COCOC,C3H8O2,10.9
+dimethyl carbonate,COC(=O)OC,C3H6O3,10.5
+ethanol,CCO,C2H6O,10.3
+"1,3-dioxolane",C1COCO1,C3H6O2,10.3
+2-hydroxy-methylpropionate,COC(=O)[C@H](C)O,C4H8O3,9.6
+ethyl formate,CCOC=O,C3H6O2,9.2
+"1,2-ethanediol (ethylene glycol)",OCCO,C2H6O2,8.2
+methanol,CO,CH4O,6.6
