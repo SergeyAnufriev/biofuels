@@ -49,21 +49,35 @@ def compose(*function_param):
     return inner
 
 
-class Filter:
+class Select_descriptors:
     """This class combines the above filtering steps"""
 
-    def __init__(self, var_: float, cor_: float, skew_: float):
+    def __init__(self, var_: float, cor_: float, skew_: float,wrapper:object):
         self.var_ = var_
         self.cor_ = cor_
         self.skew_ = skew_
         self.transforms = [(x, y) for x, y in zip([low_var, high_corr, high_skewed], [var_, cor_, skew_]) if
                            y is not None]
 
-    def transform(self, data: pd.DataFrame) -> pd.DataFrame:
+        self.wrapper   = wrapper
+        self.variables = None
+
+    def transform(self, *args) :
         """Input descriptors data frame with smiles column"""
         func = compose(*self.transforms)
-
-        x = data.copy()
+        x    = args[0].copy()
         descriptors = func(x.drop('SMILES', axis=1))
 
-        return pd.concat([x['SMILES'], descriptors], axis=1)
+        if self.wrapper == None:
+            self.variables = descriptors.columns
+
+            return pd.concat([x['SMILES'], descriptors], axis=1)
+        else:
+            y = args[1].reset_index(drop=True)
+            desc_sel = self.wrapper.fit_transform(descriptors,y)
+            self.variables = descriptors.columns[self.wrapper.get_support()]
+
+            return pd.concat([x['SMILES'],pd.DataFrame(desc_sel, columns=self.variables)],axis=1)
+
+
+
