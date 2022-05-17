@@ -1,6 +1,7 @@
 from sklearn.svm import SVR
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.neural_network import MLPRegressor
 import optuna
 
 
@@ -39,6 +40,18 @@ class Model:
 
         return self.cross_score(model)
 
+    def mlp_objective(self,trial):
+
+        lr    = trial.suggest_float('learning_rate_init',10**-5,10**-2,log=True)
+
+        alpha = trial.suggest_float('alpha',10**-4,10**-1,log=True)
+
+        bz    = trial.suggest_int('batch_size',3,10)
+
+        model = MLPRegressor(hidden_layer_sizes=(100,100),learning_rate_init=lr,alpha=alpha,batch_size=bz)
+
+        return self.cross_score(model)
+
 
     def find_params(self,objective):
 
@@ -52,9 +65,13 @@ class Model:
         if self.model_type == 'SVM':
             model  = SVR()
             params = self.find_params(self.svm_objective)
-        else:
+        elif self.model_type == 'RF':
             model  = RandomForestRegressor()
             params = self.find_params(self.rf_objective)
+
+        else:
+            model = MLPRegressor()
+            params = self.find_params(self.mlp_objective)
 
         model.set_params(**params)
         model.fit(self.x_filtr[self.x_filtr.columns[1:]],self.y_train)
