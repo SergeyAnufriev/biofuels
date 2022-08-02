@@ -1,7 +1,8 @@
 from sklearn.svm import SVR
 from sklearn.model_selection import cross_val_score
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomForestRegressor,GradientBoostingRegressor
 from sklearn.neural_network import MLPRegressor
+from sklearn.linear_model import ElasticNet
 import optuna
 
 
@@ -40,6 +41,24 @@ class Model:
 
         return self.cross_score(model)
 
+
+    def gbm_objective(self,trial):
+
+        max_depth = trial.suggest_int('max_depth', 2, 10)
+
+        max_features = trial.suggest_int('max_features',5,40)
+
+        lr = trial.suggest_float('learning_rate',0.05,0.1,log=True)
+
+        n_est = trial.suggest_int('n_estimators',50,300)
+
+        subs = trial.suggest_float('subsample',0.2,1)
+
+        model = GradientBoostingRegressor(learning_rate=lr,n_estimators=n_est,subsample=subs,max_depth=max_depth,max_features=max_features)
+
+        return self.cross_score(model)
+
+
     def mlp_objective(self,trial):
 
         lr    = trial.suggest_float('learning_rate_init',10**-5,10**-2,log=True)
@@ -48,10 +67,18 @@ class Model:
 
         bz    = trial.suggest_int('batch_size',3,10)
 
-        model = MLPRegressor(hidden_layer_sizes=(100,100),learning_rate_init=lr,alpha=alpha,batch_size=bz)
+        model = MLPRegressor(hidden_layer_sizes=(100,100),learning_rate_init=lr,alpha=alpha,batch_size=bz,max_iter=1000,tol=1e-2)
 
         return self.cross_score(model)
 
+
+    def elastic_net(self,trial):
+
+        l1_ratio = trial.suggest_float('l1_ratio',0,1)
+        alpha    = trial.suggest_float('alpha',10**-2,10**2,log=True)
+        model    = ElasticNet(alpha=alpha,l1_ratio=l1_ratio,tol=1e-2)
+
+        return self.cross_score(model)
 
     def find_params(self,objective):
 
@@ -68,6 +95,14 @@ class Model:
         elif self.model_type == 'RF':
             model  = RandomForestRegressor()
             params = self.find_params(self.rf_objective)
+
+        elif self.model_type == 'EN':
+            params = self.find_params(self.elastic_net)
+            model  = ElasticNet()
+
+        elif self.model_type =='GBM':
+            params = self.find_params(self.gbm_objective)
+            model  = GradientBoostingRegressor()
 
         else:
             model = MLPRegressor()

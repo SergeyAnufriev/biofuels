@@ -49,7 +49,12 @@ def Leverage(x_in, X_train):
     return np.matmul(np.matmul(x_in.T, inner_mat), x_in)
 
 
-scalar = MinMaxScaler()
+def normilise(x):
+
+    a = max(x)
+    b = min(x)
+
+    return (a-x)/(a-b)
 
 
 class Partition:
@@ -100,7 +105,7 @@ class Partition:
             dist_ = self.X_test['SMILES'].apply(lambda x: mean_tanimato(x, self.X_train)).values
         else:
             if self.check_inverse() is True:
-                x = self.X_test[self.X_train.columns].values[:, 1:]
+                x = self.X_test[self.X_train.columns].values[:, 1:].astype(float)
                 dist_ = [Leverage(x[i, :], self.X_train.values[:, 1:]) for i in range(len(self.X_test))]
             else:
                 dist_ = None
@@ -113,6 +118,7 @@ class Partition:
         if dist_ is None:
             return None
         else:
+            dist_ = normilise(np.array(dist_))
             for x in self.fractions:
                 idx = np.where(dist_<x)[0]
                 error_break_down[x] = {'error': self.errors[idx], 'SMILES': self.X_test.SMILES.values[idx]}
